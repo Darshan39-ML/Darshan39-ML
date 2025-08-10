@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Darshan39-ML
 - 👀 I’m interested in AIML
-- 🌱 I’m currently learning Machine Learning and Deep Learning
+- 🌱 I’m currently at Machine Learning and Deep Learning
 - 💞️ I’m looking to collaborate on Big AIML projects
 - 📫 This my E-mail :- darshanganorkar444@gmail.com 
 
