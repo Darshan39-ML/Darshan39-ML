@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Custom Banner](https://github.com/Darshan39-ML/About-Me/blob/main/github-header-banner.png?raw=true)
+  ![Custom Banner](https://github.com/Darshan39-ML/Darshan39-ML/blob/main/github-header-banner.png?raw=true)
   <br><br>
 
   <table>
