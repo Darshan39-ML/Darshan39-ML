@@ -32,7 +32,7 @@ Here are the primary tools and technologies I work with:
 <br>
 **Connect with me:**
 <p>
-  <a href="https://linkedin.com/in/your-linkedin-profile"><img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/darshan-ganorkar-7aa507312?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" /></a>
+  <a href="https://linkedin.com/in/your-linkedin-profile"><img src="https://www.linkedin.com/in/darshan-ganorkar-7aa507312?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" /></a>
   </p>
 
 ---
