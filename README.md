@@ -56,11 +56,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Darshan39-ML&show_icons=true&theme=onedark&hide_border=true&title_color=007ACC&icon_color=0e75b6&custom_title=GitHub%20Activity" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan39-ML&layout=compact&theme=vision-friendly-dark&hide_border=true&title_color=007ACC&icon_color=0e75b6&custom_title=Top%20Languages" alt="Darshan's Top Languages" />
   <br>
-  
-  <a href="https://www.linkedin.com/in/darshan-ganorkar-7aa507312?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
-  </a>
-</div>
+
 <br>
 **🔗 Connect with me:**
 <p>
