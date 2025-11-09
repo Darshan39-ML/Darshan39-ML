@@ -9,7 +9,7 @@
         <img src="https://img.shields.io/badge/%20-AI%2FML%20Developer%0A%20%2B%20LLM%20Enthusiast%0A%2B%20Building%20Intelligent%20Systems%0A%2B%20Recurzing%20Intelligent%20Algos%0A%2B%20Server.zip%20is%20lit-10B981?style=for-the-badge&labelColor=21262d&color=10B981&logo=github&logoColor=white&font=Press%20Start%202P&label=&cacheSeconds=3600&maxAge=3600" alt="Pixel Box Text" />
       </td>
       <td>
-        <img src="https://www.google.com/imgres?q=coding%20fox%20wallpaper&imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-vector%2Fcute-fox-operating-laptop-cartoon-illustration_138676-2743.jpg%3Fsemt%3Dais_hybrid%26w%3D740%26q%3D80&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcoding-fox&docid=mJWb-5hUdJTurM&tbnid=VqrvhckqWbsovM&vet=12ahUKEwjcqPW1yOWQAxUO1jgGHXpDDXEQM3oECBoQAA..i&w=740&h=740&hcb=2&itg=1&ved=2ahUKEwjcqPW1yOWQAxUO1jgGHXpDDXEQM3oECBoQAA" width="100" />
+        <img src="https://www.google.com/imgres?q=coding%20fox%20wallpaper&imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-vector%2Fcute-fox-operating-laptop-cartoon-illustration_138676-2743.jpg%3Fsemt%3Dais_hybrid%26w%3D740%26q%3D80&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcoding-fox&docid=mJWb-5hUdJTurM&tbnid=VqrvhckqWbsovM&vet=12ahUKEwjcqPW1yOWQAxUO1jgGHXpDDXEQM3oECBoQAA..i&w=740&h=740&hcb=2&itg=1&ved=2ahUKEwjcqPW1yOWQAxUO1jgGHXpDDXEQM3oECBoQAA" width="20" />
       </td>
     </tr>
   </table>
