@@ -1,4 +1,4 @@
-![Banner Placeholder](https://github.com/Darshan39-ML/About-Me/blob/main/github-header-banner.png?raw=true)
+![Custom Banner](https://github.com/Darshan39-ML/About-Me/blob/main/github-header-banner.png?raw=true)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Darshan39-ML&label=Profile%20views&color=0e75b6&style=flat" alt="Darshan39-ML Profile views" />
@@ -30,9 +30,9 @@ Here are the primary tools and technologies I work with:
 | **Advanced AI** | ![LLM](https://img.shields.io/badge/Large%20Language%20Models-7C3AED?style=flat-square&logo=openai&logoColor=white) ![RAG](https://img.shields.io/badge/RAG%20(AI)-28A745?style=flat-square&logo=github&logoColor=white) |
 
 <br>
-**Connect with me:**
+**🔗 Connect with me:**
 <p>
-  <a><img src="(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" /></a>
-  </p>
+  <a href="https://www.linkedin.com/in/darshan-ganorkar-7aa507312?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 ---
