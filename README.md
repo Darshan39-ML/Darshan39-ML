@@ -9,7 +9,7 @@
 
 ---
 
-<div align="center">
+<div>
   <h2>👋 Hi there! dedicated AIML Developer</h2>
   <img src="https://komarev.com/ghpvc/?username=Darshan39-ML&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
@@ -25,7 +25,7 @@
 
 ### 🕹️ Check out my Game!
 
-<div align="center">
+<div>
   <a href="https://darshan39-ml.github.io/snake-game-readme/" target="_blank">
     <img src="https://img.shields.io/badge/PLAY%20SNAKE%20GAME%20🐍-FF3366?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Play Snake Game Badge" />
   </a>
@@ -35,7 +35,7 @@
 
 ### 🛠️ Core Technologies
 
-<div align="center">
+<div>
   <table>
     <tr>
       <td align="center"><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /><br>Python</td>
@@ -52,7 +52,7 @@
 
 ### 📊 Activity & Connect
 
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=Darshan39-ML&show_icons=true&theme=onedark&hide_border=true&title_color=007ACC&icon_color=0e75b6&custom_title=GitHub%20Activity" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan39-ML&layout=compact&theme=vision-friendly-dark&hide_border=true&title_color=007ACC&icon_color=0e75b6&custom_title=Top%20Languages" alt="Darshan's Top Languages" />
   <br>
