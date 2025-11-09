@@ -1,4 +1,3 @@
-
 <div align="center">
   
   ![Custom Banner](https://github.com/Darshan39-ML/About-Me/blob/main/github-header-banner.png?raw=true)
@@ -7,7 +6,7 @@
   <table>
     <tr>
       <td style="padding-right: 10px;">
-        <img src="https://img.shields.io/badge/%20-AI%2FML%20Developer%0A%20%2B%20LLM%20Enthusiast%0A%20%2B%20Building%20Intelligent%20Systems%0A%20%2B%20Recurzing%20Intelligent%20Algos%0A%20%2B%20Server.zip%20is%20lit-10B981?style=for-the-badge&labelColor=21262d&color=10B981&logo=github&logoColor=white&font=Press%20Start%202P&label=&cacheSeconds=3600&maxAge=3600" alt="Pixel Box Text" />
+        <img src="https://img.shields.io/badge/%20-AI%2FML%20Developer%0A%20%2B%20LLM%20Enthusiast%0A%2B%20Building%20Intelligent%20Systems%0A%2B%20Recurzing%20Intelligent%20Algos%0A%2B%20Server.zip%20is%20lit-10B981?style=for-the-badge&labelColor=21262d&color=10B981&logo=github&logoColor=white&font=Press%20Start%202P&label=&cacheSeconds=3600&maxAge=3600" alt="Pixel Box Text" />
       </td>
       <td>
         <img src="https://wallpapers.com/images/high/pixel-art-cute-fox-png-t3atin7a90wibunw.png" width="100" />
@@ -25,23 +24,47 @@
 
 <table width="100%" role="presentation">
   <tr>
-    <td valign="top" width="60%" style="padding: 10px;">
+    <td valign="top" width="55%" style="padding: 10px;">
       <blockquote style="text-align: left;">
-        <p>"driven by a passion to learn and apply cutting-edge concepts in <strong>AI, RAG (Retrieval-Augmented Generation), and LLMs (Large Language Models)</strong> to build intelligent, impactful solutions."</p>
+        <p>"driven by a passion to learn and apply cutting-edge concepts in **AI, RAG (Retrieval-Augmented Generation), and LLMs (Large Language Models)** to build intelligent, impactful solutions."</p>
       </blockquote>
       
-      <h3>🚀 Rapid Fire</h3>
+      ### 🚀 Rapid Fire
       <ul style="list-style-type: '⚡ ';">
         <li>**Current Focus:** Actively participating and contributing to **Kaggle competitions**.</li>
         <li>**Learning Goals:** Deepening my expertise in the practical application of RAG and LLM architectures.</li>
       </ul>
     </td>
     
-    <td valign="top" width="40%" style="padding: 10px; border-left: 1px solid #30363d;">
+    <td valign="top" width="45%" style="padding: 10px; border-left: 1px solid #30363d;">
       
-      <h3>🕹️ Play My Game!</h3>
-      <a href="https://yourusername.github.io/asteroid-destroyer/" target="_blank">
-        <img src="https://img.shields.io/badge/ASTEROID%20DESTROYER-FF3366?style=for-the-badge&logo=unity&logoColor=white&labelColor=000000" alt="Play Asteroid Destroyer" />
+      ### 🕹️ Live Game Simulation
+      <div style="background-color: #0d1117; color: #10B981; border: 2px solid #30363d; padding: 10px; font-family: monospace; font-size: 10px; white-space: pre; text-align: left; overflow: auto; height: 180px; width: 95%;">
+> SCORE: 1200
+>
+> ------------------------------
+> |                            |
+> |       @                    |
+> |                            |
+> |                            |
+> |       |                    |
+> |       |                    |
+> |                            |
+> |    @                       |
+> |                            |
+> |                            |
+> |                            |
+> |                            |
+> |                            |
+> |            A               |
+> ------------------------------
+> COMMAND: move right...
+      </div>
+      
+      <br>
+      
+      <a href="https://darshan39-ml.github.io/snake-game-readme/" target="_blank">
+        <img src="https://img.shields.io/badge/PLAY%20FULL%20GAME%20🐍-FF3366?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Play Snake Game Badge" />
       </a>
       
       <br><br>
@@ -57,17 +80,17 @@
 ---
 
 <div align="center">
-  <h3>🛠️ Core Technologies</h3>
+  ### 🛠️ Core Technologies
   <table>
     <tr>
-      <td align="center"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /><br>Python</td>
-      <td align="center"><img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" /><br>PyTorch</td>
-      <td align="center"><img src="https://img.shields.io/badge/Neural%20Networks-007ACC?style=flat-square&logo=tensorflow&logoColor=white" alt="Neural Networks" /><br>NN</td>
+      <td align="center"><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /><br>Python</td>
+      <td align="center"><img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" /><br>PyTorch</td>
+      <td align="center"><img src="https://img.shields.io/badge/Neural%20Networks-007ACC?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Neural Networks" /><br>NN</td>
     </tr>
     <tr>
-      <td align="center"><img src="https://img.shields.io/badge/Large%20Language%20Models-7C3AED?style=flat-square&logo=openai&logoColor=white" alt="LLM" /><br>LLM</td>
-      <td align="center"><img src="https://img.shields.io/badge/RAG%20(AI)-28A745?style=flat-square&logo=github&logoColor=white" alt="RAG" /><br>RAG</td>
-      <td align="center"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" /><br>Kaggle</td>
+      <td align="center"><img src="https://img.shields.io/badge/Large%20Language%20Models-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="LLM" /><br>LLM</td>
+      <td align="center"><img src="https://img.shields.io/badge/RAG%20(AI)-28A745?style=for-the-badge&logo=github&logoColor=white" alt="RAG" /><br>RAG</td>
+      <td align="center"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /><br>Kaggle</td>
     </tr>
   </table>
 </div>
@@ -75,7 +98,8 @@
 ---
 
 <div align="center">
-  <h3>📈 Activity & Languages</h3>
+  ### 📊 Activity & Stats
+  <img src="https://github-readme-stats.vercel.app/api?username=Darshan39-ML&show_icons=true&theme=onedark&hide_border=true&title_color=007ACC&icon_color=0e75b6&custom_title=GitHub%20Activity" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan39-ML&layout=compact&theme=vision-friendly-dark&hide_border=true&title_color=007ACC&icon_color=0e75b6&custom_title=Top%20Languages" alt="Darshan's Top Languages" />
 </div>
 <br>
