@@ -3,12 +3,12 @@
   ![Custom Banner](https://github.com/Darshan39-ML/About-Me/blob/main/github-header-banner.png?raw=true)
   <br><br>
 
-  <table role="presentation">
+  <table>
     <tr>
-      <td>
+      <td style="text-align: right; padding-right: 15px;">
         <img src="https://img.shields.io/badge/%20-AI%2FML%20Developer%0A%20%2B%20LLM%20Enthusiast%0A%20%2B%20Building%20Intelligent%20Systems%0A%20%2B%20Recurzing%20Intelligent%20Algos%0A%20%2B%20Server.zip%20is%20lit-10B981?style=for-the-badge&labelColor=21262d&color=10B981&logo=github&logoColor=white&font=Press%20Start%202P&label=&cacheSeconds=3600&maxAge=3600" alt="Pixel Box Text" />
       </td>
-      <td>
+      <td style="text-align: left;">
         <img src="https://media.giphy.com/media/l4pTcJ6s3f0nF2w4c/giphy.gif" alt="Adorable Pixel Fox Cub" width="100" />
       </td>
     </tr>
@@ -18,9 +18,9 @@
 ---
 
 <div align="center">
-  <table role="presentation" style="width: 100%; border: none;">
+  <table width="100%">
     <tr>
-      <td valign="top" style="width: 50%; padding: 10px;">
+      <td valign="top" width="50%" style="padding: 10px;">
         <h2>👋 Hi there! dedicated AIML Developer</h2>
         <img src="https://komarev.com/ghpvc/?username=Darshan39-ML&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
         
@@ -31,7 +31,7 @@
         </blockquote>
       </td>
       
-      <td valign="top" style="width: 50%; padding: 10px; border-left: 1px solid #30363d;">
+      <td valign="top" width="50%" style="padding: 10px; border-left: 1px solid #30363d;">
         <h3>Darshan's GitHub Stats</h3>
         <img src="https://github-readme-stats.vercel.app/api?username=Darshan39-ML&show_icons=true&theme=onedark&hide_border=true&title_color=007ACC&icon_color=0e75b6&custom_title=GitHub%20Activity" alt="GitHub Stats" />
         
@@ -49,9 +49,9 @@
 ---
 
 <div align="center">
-  <table role="presentation" style="width: 100%; border: none; margin-top: 20px;">
+  <table width="100%" style="margin-top: 20px;">
     <tr>
-      <td valign="top" style="width: 50%; padding: 10px;">
+      <td valign="top" width="50%" style="padding: 10px;">
         <h3>🚀 Rapid Fire</h3>
         <ul style="text-align: left; list-style-type: '⚡ ';">
           <li>**Current Focus:** Actively participating and contributing to **Kaggle competitions**.</li>
@@ -59,9 +59,9 @@
         </ul>
       </td>
       
-      <td valign="top" style="width: 50%; padding: 10px; border-left: 1px solid #30363d;">
+      <td valign="top" width="50%" style="padding: 10px; border-left: 1px solid #30363d;">
         <h3>🛠️ Core Technologies</h3>
-        <table role="presentation" style="width: 100%; border: none;">
+        <table>
           <tr>
             <td align="center"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /><br>Python</td>
             <td align="center"><img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" /><br>PyTorch</td>
