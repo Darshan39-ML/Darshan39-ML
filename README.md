@@ -26,7 +26,7 @@
 ### 🕹️ Check out my Game!
 
 <div>
-  <a href="" target="_blank">
+  <a href="https://github.com/Darshan39-ML/Darshan39-ML/snake game.html" target="_blank">
     <img src="https://img.shields.io/badge/PLAY%20SNAKE%20GAME%20🐍-FF3366?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Play Snake Game Badge" />
   </a>
 </div>
