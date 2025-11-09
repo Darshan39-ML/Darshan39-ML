@@ -6,7 +6,7 @@
   <table>
     <tr>
       <td style="padding-right: 10px;">
-        <img src="https://img.shields.io/badge/%20-AI%2FML%20Developer%0A%20%2B%20LLM%20Enthusiast%0A%2B%20Building%20Intelligent%20Systems%0A%2B%20Recurzing%20Intelligent%20Algos%0A%2B%20Server.zip%20is%20lit-10B981?style=for-the-badge&labelColor=21262d&color=10B981&logo=github&logoColor=white&font=Press%20Start%202P&label=&cacheSeconds=3600&maxAge=3600" alt="Pixel Box Text" />
+        <img src="https://wallpapers.com/images/high/pixel-art-cute-fox-png-t3atin7a90wibunw.png" alt="Pixel Box Text" />
       </td>
       <td>
         <img src="pixelated fox sitting game asset illustration in pixel art style" width="100" />
