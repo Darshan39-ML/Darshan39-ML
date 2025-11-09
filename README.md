@@ -1,4 +1,4 @@
-![Banner Placeholder]()
+![Banner Placeholder](https://github.com/Darshan39-ML/About-Me/blob/main/github-header-banner.png?raw=true)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Darshan39-ML&label=Profile%20views&color=0e75b6&style=flat" alt="Darshan39-ML Profile views" />
