@@ -8,12 +8,6 @@
 
 ---
 
-<div align="center">
-    <img src="https://wallpapers.com/images/high/pixel-art-cute-fox-png-t3atin7a90wibunw.png" width="100" />
-</div>
-
----
-
 <div>
   <h2>👋 Hi there! dedicated AIML Developer Here</h2>
   <img src="https://komarev.com/ghpvc/?username=Darshan39-ML&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
