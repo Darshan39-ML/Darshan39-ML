@@ -103,33 +103,21 @@
     font-family: 'Courier New', monospace;
 ">
 
-### 🚀 ACTIVE MISSIONS
+<div align="center">
 
-```python
-active_missions = {
-    "mission_001": "Kaggle Neural Competitions",
-    "mission_002": "RAG System Architecture", 
-    "mission_003": "LLM Fine-tuning Protocols",
-    "mission_004": "Server.zip Optimization",
-    "status": "ACTIVE_AND_LEARNING"
-}
-```
-
-</div>
-
-</td>
+<table>
+<tr>
 <td width="50%" align="center">
 
-### **📡 TRANSMISSION FREQUENCIES**
-[![LinkedIn Quantum Link](https://img.shields.io/badge/LINKEDIN_QUANTUM-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/darshan-ganorkar)<br/>
-[![Instagram Neural Feed](https://img.shields.io/badge/INSTAGRAM_NEURAL-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000)](https://instagram.com/ganorkar_264)<br/>
-[![Gmail Data Stream](https://img.shields.io/badge/GMAIL_DATA-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:darshanganorkar444@gmail.com)<br/>
-[![GitHub Repository](https://img.shields.io/badge/GITHUB_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/Darshan39-ML)
+### **🎯 ACTIVE MISSIONS**
 
-</td>
-</tr>
-</table>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=4000&pause=1000&color=10B981&background=000000&center=true&vCenter=true&width=400&height=60&lines=active_missions+%3D+%7B;%22mission_001%22%3A+%22Kaggle+Neural+Competitions%22;%22mission_002%22%3A+%22RAG+System+Architecture%22;%22mission_003%22%3A+%22LLM+Fine%E2%80%90tuning+Protocols%22;%22mission_004%22%3A+%22Server.zip+Optimization%22;%22status%22%3A+%22ACTIVE_AND_LEARNING%22;%7D" alt="Python Code Animation" />
 
+<div style="margin-top: 15px;">
+[![Kaggle Competitions](https://img.shields.io/badge/🔥_KAGGLE_NEURAL-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=000000)](https://kaggle.com)<br/>
+[![RAG Systems](https://img.shields.io/badge/🧠_RAG_ARCHITECTURE-10B981?style=for-the-badge&logo=redis&logoColor=white&labelColor=000000)](https://github.com)<br/>
+[![LLM Protocols](https://img.shields.io/badge/⚡_LLM_FINE_TUNING-7C3AED?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000)](https://github.com)<br/>
+[![Server Optimization](https://img.shields.io/badge/🚀_SERVER.ZIP-FF6B35?style=for-the-badge&logo=serverless&logoColor=white&labelColor=000000)](https://github.com)
 </div>
 
 ---
