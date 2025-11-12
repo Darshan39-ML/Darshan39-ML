@@ -39,51 +39,50 @@
 ## 🎯 SYSTEM PROTOCOLS
 <div align="center">
 
-<!-- SIMPLE ANIMATED TERMINAL -->
-<div style="
-    background: #000000;
-    border: 2px solid #10B981;
-    border-radius: 10px;
-    padding: 20px;
-    margin: 20px 0;
-    font-family: 'Courier New', monospace;
-    text-align: left;
-    box-shadow: 0 0 20px #10B981;
-">
-
-<div style="color: #10B981; font-weight: bold; margin-bottom: 15px;">
-> system_profile --user Darshan39-ML --mode detailed
-</div>
-
-<div style="color: #FFFFFF; line-height: 1.6;">
-<span style="color: #7C3AED;">🧠 CORE_IDENTITY:</span> AI/ML Developer<br>
-<span style="color: #10B981;">⚡ SPECIALIZATION:</span> Large Language Models<br>
-<span style="color: #007ACC;">🔬 RESEARCH_FOCUS:</span> RAG Systems & Neural Architectures<br>
-<span style="color: #FF6B35;">🎯 MISSION:</span> Building tomorrow's intelligent systems today
-</div>
-
-<div style="color: #10B981; font-weight: bold; margin: 15px 0;">
-> neural_network --status active --learning_rate high
-</div>
-
-<div style="color: #FFFFFF; line-height: 1.6;">
-<span style="color: #7C3AED;">> current_objective:</span> <span style="color: #FFD700;">"Advancing AGI through practical innovation"</span><br>
-<span style="color: #7C3AED;">> energy_source:</span> <span style="color: #FFD700;">"Coffee + Code + Curiosity"</span>
-</div>
-
-<!-- Blinking cursor -->
-<div style="color: #10B981; margin-top: 15px;">
-> <span style="display: inline-block; width: 8px; height: 16px; background: #10B981; animation: blink 1s infinite;"></span>
-</div>
-
-</div>
-
-<style>
-@keyframes blink {
-  0%, 50% { opacity: 1; }
-  51%, 100% { opacity: 0; }
-}
-</style>
+<!-- ANIMATED TERMINAL WITH WORKING SVG ANIMATION -->
+<svg width="600" height="300" viewBox="0 0 600 300" style="background: #000000; border-radius: 10px; border: 2px solid #10B981;">
+  <!-- Terminal Header -->
+  <rect x="0" y="0" width="600" height="30" fill="#111" />
+  <circle cx="15" cy="15" r="5" fill="#FF5F57">
+    <animate attributeName="opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="35" cy="15" r="5" fill="#FFBD2E">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="55" cy="15" r="5" fill="#28CA42">
+    <animate attributeName="opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Blinking Cursor -->
+  <rect x="180" y="260" width="8" height="16" fill="#10B981">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+  
+  <!-- Text Content -->
+  <text x="20" y="60" font-family="monospace" font-size="14" fill="#10B981">
+    > system_profile --user Darshan39-ML --mode detailed
+  </text>
+  
+  <text x="30" y="90" font-family="monospace" font-size="12" fill="#7C3AED">
+    🧠 CORE_IDENTITY:
+    <tspan x="30" y="110" fill="#FFFFFF">AI/ML Developer</tspan>
+  </text>
+  
+  <text x="30" y="130" font-family="monospace" font-size="12" fill="#10B981">
+    ⚡ SPECIALIZATION:
+    <tspan x="30" y="150" fill="#FFFFFF">Large Language Models</tspan>
+  </text>
+  
+  <text x="30" y="170" font-family="monospace" font-size="12" fill="#007ACC">
+    🔬 RESEARCH_FOCUS:
+    <tspan x="30" y="190" fill="#FFFFFF">RAG Systems & Neural Architectures</tspan>
+  </text>
+  
+  <text x="30" y="210" font-family="monospace" font-size="12" fill="#FF6B35">
+    🎯 MISSION:
+    <tspan x="30" y="230" fill="#FFFFFF">Building tomorrow's intelligent systems today</tspan>
+  </text>
+</svg>
 
 </div>
 
