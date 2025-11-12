@@ -110,19 +110,47 @@
 <tr>
 <td width="50%" align="center">
 
-### **🚀 CURRENT MISSIONS**
+### **🚀 ACTIVE MISSIONS**
 
-<!-- Animated Mission Display -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=10B981&background=000000&center=true&vCenter=true&width=400&height=120&lines=🎯+ACTIVE+NEURAL+MISSIONS;━━━━━━━━━━━━━━━━━━━━;🔥+Kaggle+AI+Competitions;🧠+RAG+System+Development;⚡+LLM+Fine-tuning+Research;🚀+Server+Architecture+Optimization" alt="Active Missions" />
+<!-- Mission Cards -->
+<div style="background: #000000; border: 2px solid #10B981; border-radius: 10px; padding: 20px; margin: 10px 0;">
+  
+**🔥 KAGGLE COMPETITIONS**
+<br>
+<small>AI/ML Challenge Participation</small>
+<br>
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-10B981?style=flat-square&logo=kaggle&logoColor=white&labelColor=000000" />
 
-<!-- Mission Badges -->
-<div style="margin-top: 15px;">
-[![Mission 1](https://img.shields.io/badge/🎯_MISSION_1-ACTIVE-10B981?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=000000)]()
-[![Mission 2](https://img.shields.io/badge/🎯_MISSION_2-BUILDING-7C3AED?style=for-the-badge&logo=redis&logoColor=white&labelColor=000000)]()
 </div>
-<div style="margin-top: 10px;">
-[![Mission 3](https://img.shields.io/badge/🎯_MISSION_3-RESEARCHING-007ACC?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000)]()
-[![Mission 4](https://img.shields.io/badge/🎯_MISSION_4-OPTIMIZING-FF6B35?style=for-the-badge&logo=serverless&logoColor=white&labelColor=000000)]()
+
+<div style="background: #000000; border: 2px solid #7C3AED; border-radius: 10px; padding: 20px; margin: 10px 0;">
+  
+**🧠 RAG SYSTEMS**
+<br>
+<small>Retrieval-Augmented Generation</small>
+<br>
+<img src="https://img.shields.io/badge/STATUS-DEVELOPING-7C3AED?style=flat-square&logo=redis&logoColor=white&labelColor=000000" />
+
+</div>
+
+<div style="background: #000000; border: 2px solid #007ACC; border-radius: 10px; padding: 20px; margin: 10px 0;">
+  
+**⚡ LLM RESEARCH**
+<br>
+<small>Large Language Model Fine-tuning</small>
+<br>
+<img src="https://img.shields.io/badge/STATUS-RESEARCHING-007ACC?style=flat-square&logo=openai&logoColor=white&labelColor=000000" />
+
+</div>
+
+<div style="background: #000000; border: 2px solid #FF6B35; border-radius: 10px; padding: 20px; margin: 10px 0;">
+  
+**🚀 SERVER OPTIMIZATION**
+<br>
+<small>System Architecture & Performance</small>
+<br>
+<img src="https://img.shields.io/badge/STATUS-OPTIMIZING-FF6B35?style=flat-square&logo=serverless&logoColor=white&labelColor=000000" />
+
 </div>
 
 </td>
@@ -130,15 +158,45 @@
 
 ### **📡 CONNECT WITH ME**
 
-<!-- Animated Connection Display -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=7C3AED&background=000000&center=true&vCenter=true&width=400&height=120&lines=🌐+TRANSMISSION+FREQUENCIES;━━━━━━━━━━━━━━━━━━━━;💼+LinkedIn+-+Professional;📸+Instagram+-+Creative;📧+Gmail+-+Collaboration;💻+GitHub+-+Projects" alt="Connect Channels" />
-
 <!-- Social Links -->
-<div style="background: #000000; border: 2px solid #7C3AED; border-radius: 10px; padding: 15px; margin-top: 15px;">
-[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/darshan-ganorkar)
-[![Instagram](https://img.shields.io/badge/📸_INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000)](https://instagram.com/ganorkar_264)
-[![Gmail](https://img.shields.io/badge/📧_GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:darshanganorkar444@gmail.com)
-[![GitHub](https://img.shields.io/badge/💻_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/Darshan39-ML)
+<div style="background: #000000; border: 2px solid #0077B5; border-radius: 10px; padding: 20px; margin: 10px 0;">
+  
+**💼 LINKEDIN**
+<br>
+<small>Professional Network</small>
+<br>
+[![LinkedIn](https://img.shields.io/badge/CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/darshan-ganorkar)
+
+</div>
+
+<div style="background: #000000; border: 2px solid #E4405F; border-radius: 10px; padding: 20px; margin: 10px 0;">
+  
+**📸 INSTAGRAM**
+<br>
+<small>Creative Portfolio</small>
+<br>
+[![Instagram](https://img.shields.io/badge/FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000)](https://instagram.com/ganorkar_264)
+
+</div>
+
+<div style="background: #000000; border: 2px solid #D14836; border-radius: 10px; padding: 20px; margin: 10px 0;">
+  
+**📧 GMAIL**
+<br>
+<small>Direct Contact</small>
+<br>
+[![Gmail](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:darshanganorkar444@gmail.com)
+
+</div>
+
+<div style="background: #000000; border: 2px solid #181717; border-radius: 10px; padding: 20px; margin: 10px 0;">
+  
+**💻 GITHUB**
+<br>
+<small>Projects & Code</small>
+<br>
+[![GitHub](https://img.shields.io/badge/VIEW-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/Darshan39-ML)
+
 </div>
 
 </td>
