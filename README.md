@@ -30,7 +30,7 @@
 <!-- QUANTUM PROCESSING STATS -->
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-top: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan39-ML&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=FFFFFF" alt="Quantum Language Processing" width="45%" />
-  <img src="https://streak-stats.demolab.com/?user=Darshan39-ML&theme=nightowl&hide_border=true" alt="GitHub Streak" width="45%" />
+  <img src="https://streak-stats.demolab.com/?user=Darshan39-ML&theme=radical&hide_border=true" alt="Darshan's GitHub Streak" width="45%" />
 </div>
 
 </div>
