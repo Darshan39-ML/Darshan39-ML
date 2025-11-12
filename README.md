@@ -9,9 +9,72 @@
 
 ---
 
-<div>
-  <h2>👋 Hi there! dedicated AIML Developer Here</h2>
+<div align="center">
+  <h2>👋 Hi there! dedicated AIML Developer</h2>
   <img src="https://komarev.com/ghpvc/?username=Darshan39-ML&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
+
+<table width="100%" role="presentation">
+  <tr>
+    <td valign="top" width="55%" style="padding: 10px;">
+      <blockquote style="text-align: left;">
+        <p>"driven by a passion to learn and apply cutting-edge concepts in **AI, RAG (Retrieval-Augmented Generation), and LLMs (Large Language Models)** to build intelligent, impactful solutions."</p>
+      </blockquote>
+      
+
+      🚀 Rapid Fire
+      <ul style="list-style-type: '⚡ ';">
+        <li>**Current Focus:** Actively participating and contributing to **Kaggle competitions**.</li>
+        <li>**Learning Goals:** Deepening my expertise in the practical application of RAG and LLM architectures.</li>
+      </ul>
+    </td>
+    
+    <td valign="top" width="45%" style="padding: 10px; border-left: 1px solid #30363d;">
+      
+       🕹️ Live Game Simulation
+      <div style="background-color: #0d1117; color: #10B981; border: 2px solid #30363d; padding: 10px; font-family: monospace; font-size: 10px; white-space: pre; text-align: left; overflow: auto; height: 180px; width: 95%;">
+> SCORE: 1200
+>
+> ------------------------------
+> |                            |
+> |       @                    |
+> |                            |
+> |                            |
+> |       |                    |
+> |       |                    |
+> |                            |
+> |    @                       |
+> |                            |
+> |                            |
+> |                            |
+> |                            |
+> |                            |
+> |            A               |
+> ------------------------------
+> COMMAND: move right...
+      </div>
+      
+      <br>
+      
+      <a href="https://darshan39-ml.github.io/snake-game-readme/" target="_blank">
+        <img src="https://img.shields.io/badge/PLAY%20FULL%20GAME%20🐍-FF3366?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Play Snake Game Badge" />
+      </a>
+      
+      <br><br>
+      
+      <h4>Connect with me</h4>
+      <a href="https://www.linkedin.com/in/darshan-ganorkar-7aa507312?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+      </a>
+      <a href="https://instagram.com/YOUR_INSTAGRAM_HANDLE" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Profile" />
+      </a>
+      <a href="mailto:YOUR_GMAIL_ADDRESS@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Contact" />
+      </a>
+      </td>
+  </tr>
+</table>
 </div>
 
 ---
