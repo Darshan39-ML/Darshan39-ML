@@ -39,50 +39,8 @@
 ## 🎯 SYSTEM PROTOCOLS
 <div align="center">
 
-<!-- ANIMATED TERMINAL WITH WORKING SVG ANIMATION -->
-<svg width="600" height="300" viewBox="0 0 600 300" style="background: #000000; border-radius: 10px; border: 2px solid #10B981;">
-  <!-- Terminal Header -->
-  <rect x="0" y="0" width="600" height="30" fill="#111" />
-  <circle cx="15" cy="15" r="5" fill="#FF5F57">
-    <animate attributeName="opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="35" cy="15" r="5" fill="#FFBD2E">
-    <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="55" cy="15" r="5" fill="#28CA42">
-    <animate attributeName="opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite"/>
-  </circle>
-  
-  <!-- Blinking Cursor -->
-  <rect x="180" y="260" width="8" height="16" fill="#10B981">
-    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
-  </rect>
-  
-  <!-- Text Content -->
-  <text x="20" y="60" font-family="monospace" font-size="14" fill="#10B981">
-    > system_profile --user Darshan39-ML --mode detailed
-  </text>
-  
-  <text x="30" y="90" font-family="monospace" font-size="12" fill="#7C3AED">
-    🧠 CORE_IDENTITY:
-    <tspan x="30" y="110" fill="#FFFFFF">AI/ML Developer</tspan>
-  </text>
-  
-  <text x="30" y="130" font-family="monospace" font-size="12" fill="#10B981">
-    ⚡ SPECIALIZATION:
-    <tspan x="30" y="150" fill="#FFFFFF">Large Language Models</tspan>
-  </text>
-  
-  <text x="30" y="170" font-family="monospace" font-size="12" fill="#007ACC">
-    🔬 RESEARCH_FOCUS:
-    <tspan x="30" y="190" fill="#FFFFFF">RAG Systems & Neural Architectures</tspan>
-  </text>
-  
-  <text x="30" y="210" font-family="monospace" font-size="12" fill="#FF6B35">
-    🎯 MISSION:
-    <tspan x="30" y="230" fill="#FFFFFF">Building tomorrow's intelligent systems today</tspan>
-  </text>
-</svg>
+<!-- USING ANIMATED GIF/IMAGE -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=10B981&background=000000&center=true&vCenter=true&width=600&height=100&lines=%3E+system_profile+--user+Darshan39-ML+--mode+detailed;🧠+CORE_IDENTITY%3A+AI%2FML+Developer;⚡+SPECIALIZATION%3A+Large+Language+Models;🔬+RESEARCH_FOCUS%3A+RAG+Systems+%26+Neural+Architectures;🎯+MISSION%3A+Building+tomorrow's+intelligent+systems+today" alt="Animated Terminal" />
 
 </div>
 
