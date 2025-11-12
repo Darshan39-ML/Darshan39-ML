@@ -41,18 +41,30 @@
 
 ## 🎯 SYSTEM PROTOCOLS
 
-```bash
-> system_profile --user Darshan39-ML --mode detailed
+<div align="center">
 
-🧠 CORE_IDENTITY: AI/ML Developer
-⚡ SPECIALIZATION: Large Language Models
-🔬 RESEARCH_FOCUS: RAG Systems & Neural Architectures
-🎯 MISSION: Building tomorrow's intelligent systems today
-
-> neural_network --status active --learning_rate high
-> current_objective: "Advancing AGI through practical innovation"
-> energy_source: "Coffee + Code + Curiosity"
-```
+<!-- TERMINAL STYLE OUTPUT -->
+<div style="background: #000000; border: 2px solid #10B981; border-radius: 10px; padding: 20px; margin: 20px 0; font-family: 'Courier New', monospace; text-align: left;">
+  <div style="color: #10B981; font-weight: bold; margin-bottom: 15px;">
+    > system_profile --user Darshan39-ML --mode detailed
+  </div>
+  
+  <div style="color: #FFFFFF; line-height: 1.6;">
+    <span style="color: #7C3AED;">🧠 CORE_IDENTITY:</span> AI/ML Developer<br>
+    <span style="color: #10B981;">⚡ SPECIALIZATION:</span> Large Language Models<br>
+    <span style="color: #007ACC;">🔬 RESEARCH_FOCUS:</span> RAG Systems & Neural Architectures<br>
+    <span style="color: #FF6B35;">🎯 MISSION:</span> Building tomorrow's intelligent systems today
+  </div>
+  
+  <div style="color: #10B981; font-weight: bold; margin: 15px 0;">
+    > neural_network --status active --learning_rate high
+  </div>
+  
+  <div style="color: #FFFFFF; line-height: 1.6;">
+    <span style="color: #7C3AED;">> current_objective:</span> <span style="color: #FFD700;">"Advancing AGI through practical innovation"</span><br>
+    <span style="color: #7C3AED;">> energy_source:</span> <span style="color: #FFD700;">"Coffee + Code + Curiosity"</span>
+  </div>
+</div>
 
 </div>
 
@@ -104,14 +116,22 @@
 <td width="50%" align="center">
 
 ### **🎯 CURRENT FOCUS**
-```python
-active_missions = {
-    "mission_001": "Kaggle Neural Competitions",
-    "mission_002": "RAG System Architecture", 
-    "mission_003": "LLM Fine-tuning Protocols",
-    "mission_004": "Server.zip Optimization",
-    "status": "ACTIVE_AND_LEARNING"
-}
+<!-- PYTHON CODE STYLE -->
+<div style="background: #0D1117; border: 2px solid #7C3AED; border-radius: 10px; padding: 20px; margin: 20px 0; font-family: 'Courier New', monospace; text-align: left;">
+  <div style="color: #10B981; font-weight: bold; margin-bottom: 15px;">
+    # active_missions.py
+  </div>
+  
+  <div style="color: #FF6B35;">active_missions</div> <span style="color: #FFFFFF;">= {</span><br>
+  &nbsp;&nbsp;<span style="color: #FFD700;">"mission_001"</span><span style="color: #FFFFFF;">:</span> <span style="color: #10B981;">"Kaggle Neural Competitions"</span><span style="color: #FFFFFF;">,</span><br>
+  &nbsp;&nbsp;<span style="color: #FFD700;">"mission_002"</span><span style="color: #FFFFFF;">:</span> <span style="color: #10B981;">"RAG System Architecture"</span><span style="color: #FFFFFF;">,</span><br>
+  &nbsp;&nbsp;<span style="color: #FFD700;">"mission_003"</span><span style="color: #FFFFFF;">:</span> <span style="color: #10B981;">"LLM Fine-tuning Protocols"</span><span style="color: #FFFFFF;">,</span><br>
+  &nbsp;&nbsp;<span style="color: #FFD700;">"mission_004"</span><span style="color: #FFFFFF;">:</span> <span style="color: #10B981;">"Server.zip Optimization"</span><span style="color: #FFFFFF;">,</span><br>
+  &nbsp;&nbsp;<span style="color: #FFD700;">"status"</span><span style="color: #FFFFFF;">:</span> <span style="color: #10B981;">"ACTIVE_AND_LEARNING"</span><br>
+  <span style="color: #FFFFFF;">}</span>
+</div>
+
+</div>
 ```
 
 </td>
