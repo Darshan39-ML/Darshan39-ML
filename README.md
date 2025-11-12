@@ -112,48 +112,23 @@
 
 ### **🎯 ACTIVE MISSIONS**
 
-<!-- Simple SVG for Python Code -->
-<svg width="380" height="200" style="background: #000000; border: 2px solid #10B981; border-radius: 8px;">
-  <!-- Python Code -->
-  <text x="20" y="30" font-family="monospace" font-size="12" fill="#FF6B35">active_missions = {</text>
-  <text x="30" y="50" font-family="monospace" font-size="11" fill="#FFD700">"mission_001"</text>
-  <text x="140" y="50" font-family="monospace" font-size="11" fill="#FFFFFF">: </text>
-  <text x="155" y="50" font-family="monospace" font-size="11" fill="#10B981">"Kaggle Neural Competitions"</text>
-  <text x="155" y="50" font-family="monospace" font-size="11" fill="#FFFFFF">,</text>
-  
-  <text x="30" y="70" font-family="monospace" font-size="11" fill="#FFD700">"mission_002"</text>
-  <text x="140" y="70" font-family="monospace" font-size="11" fill="#FFFFFF">: </text>
-  <text x="155" y="70" font-family="monospace" font-size="11" fill="#10B981">"RAG System Architecture"</text>
-  <text x="155" y="70" font-family="monospace" font-size="11" fill="#FFFFFF">,</text>
-  
-  <text x="30" y="90" font-family="monospace" font-size="11" fill="#FFD700">"mission_003"</text>
-  <text x="140" y="90" font-family="monospace" font-size="11" fill="#FFFFFF">: </text>
-  <text x="155" y="90" font-family="monospace" font-size="11" fill="#10B981">"LLM Fine-tuning Protocols"</text>
-  <text x="155" y="90" font-family="monospace" font-size="11" fill="#FFFFFF">,</text>
-  
-  <text x="30" y="110" font-family="monospace" font-size="11" fill="#FFD700">"mission_004"</text>
-  <text x="140" y="110" font-family="monospace" font-size="11" fill="#FFFFFF">: </text>
-  <text x="155" y="110" font-family="monospace" font-size="11" fill="#10B981">"Server.zip Optimization"</text>
-  <text x="155" y="110" font-family="monospace" font-size="11" fill="#FFFFFF">,</text>
-  
-  <text x="30" y="130" font-family="monospace" font-size="11" fill="#FFD700">"status"</text>
-  <text x="90" y="130" font-family="monospace" font-size="11" fill="#FFFFFF">: </text>
-  <text x="105" y="130" font-family="monospace" font-size="11" fill="#10B981">"ACTIVE_AND_LEARNING"</text>
-  
-  <text x="20" y="150" font-family="monospace" font-size="12" fill="#FFFFFF">}</text>
-  
-  <!-- Blinking Cursor -->
-  <rect x="25" y="160" width="6" height="12" fill="#10B981">
-    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
-  </rect>
-</svg>
+<!-- Simple Python Code Block -->
+<pre style="background: #000000; color: #10B981; padding: 15px; border-radius: 8px; border: 2px solid #10B981; font-family: 'Courier New'; text-align: left;">
+<span style="color: #FF6B35;">active_missions</span> = {
+    <span style="color: #FFD700;">"mission_001"</span>: <span style="color: #10B981;">"Kaggle Neural Competitions"</span>,
+    <span style="color: #FFD700;">"mission_002"</span>: <span style="color: #10B981;">"RAG System Architecture"</span>, 
+    <span style="color: #FFD700;">"mission_003"</span>: <span style="color: #10B981;">"LLM Fine-tuning Protocols"</span>,
+    <span style="color: #FFD700;">"mission_004"</span>: <span style="color: #10B981;">"Server.zip Optimization"</span>,
+    <span style="color: #FFD700;">"status"</span>: <span style="color: #10B981;">"ACTIVE_AND_LEARNING"</span>
+}
+</pre>
 
-<!-- Mission Badges -->
-<div style="margin-top: 15px;">
-[![Kaggle](https://img.shields.io/badge/🔥_KAGGLE_NEURAL-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=000000)](https://kaggle.com)<br>
-[![RAG](https://img.shields.io/badge/🧠_RAG_ARCHITECTURE-10B981?style=for-the-badge&logo=redis&logoColor=white&labelColor=000000)](https://github.com)<br>
-[![LLM](https://img.shields.io/badge/⚡_LLM_PROTOCOLS-7C3AED?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000)](https://github.com)<br>
-[![Server](https://img.shields.io/badge/🚀_SERVER.ZIP-FF6B35?style=for-the-badge&logo=serverless&logoColor=white&labelColor=000000)](https://github.com)
+<!-- Mission Progress -->
+<div style="background: #000000; border: 2px solid #7C3AED; border-radius: 8px; padding: 15px; margin: 10px 0;">
+[![Kaggle](https://img.shields.io/badge/🔥_KAGGLE-20BEFF?style=flat-square&logo=kaggle&logoColor=white&labelColor=000000)]()
+[![RAG](https://img.shields.io/badge/🧠_RAG-10B981?style=flat-square&logo=redis&logoColor=white&labelColor=000000)]()
+[![LLM](https://img.shields.io/badge/⚡_LLM-7C3AED?style=flat-square&logo=openai&logoColor=white&labelColor=000000)]()
+[![Server](https://img.shields.io/badge/🚀_SERVER-FF6B35?style=flat-square&logo=serverless&logoColor=white&labelColor=000000)]()
 </div>
 
 </td>
@@ -161,37 +136,18 @@
 
 ### **📡 TRANSMISSION FREQUENCIES**
 
-<!-- Simple SVG for Social Links -->
-<svg width="380" height="200" style="background: #000000; border: 2px solid #7C3AED; border-radius: 8px;">
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/darshan-ganorkar" target="_blank">
-    <rect x="20" y="20" width="340" height="35" rx="5" fill="#0077B5"/>
-    <text x="190" y="38" font-family="Arial" font-size="12" fill="white" text-anchor="middle" font-weight="bold">💼 LINKEDIN QUANTUM</text>
-  </a>
-  
-  <!-- Instagram -->
-  <a href="https://instagram.com/ganorkar_264" target="_blank">
-    <rect x="20" y="65" width="340" height="35" rx="5" fill="#E4405F"/>
-    <text x="190" y="83" font-family="Arial" font-size="12" fill="white" text-anchor="middle" font-weight="bold">📸 INSTAGRAM NEURAL</text>
-  </a>
-  
-  <!-- Gmail -->
-  <a href="mailto:darshanganorkar444@gmail.com">
-    <rect x="20" y="110" width="340" height="35" rx="5" fill="#D14836"/>
-    <text x="190" y="128" font-family="Arial" font-size="12" fill="white" text-anchor="middle" font-weight="bold">📧 GMAIL DATA</text>
-  </a>
-  
-  <!-- GitHub -->
-  <a href="https://github.com/Darshan39-ML" target="_blank">
-    <rect x="20" y="155" width="340" height="35" rx="5" fill="#181717"/>
-    <text x="190" y="173" font-family="Arial" font-size="12" fill="white" text-anchor="middle" font-weight="bold">💻 GITHUB SOURCE</text>
-  </a>
-</svg>
+<!-- Social Links -->
+<div style="background: #000000; border: 2px solid #7C3AED; border-radius: 8px; padding: 15px;">
+[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN_QUANTUM-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/darshan-ganorkar)<br>
+[![Instagram](https://img.shields.io/badge/📸_INSTAGRAM_NEURAL-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000)](https://instagram.com/ganorkar_264)<br>
+[![Gmail](https://img.shields.io/badge/📧_GMAIL_DATA-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:darshanganorkar444@gmail.com)<br>
+[![GitHub](https://img.shields.io/badge/💻_GITHUB_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/Darshan39-ML)
+</div>
 
-<!-- Status Indicators -->
-<div style="margin-top: 15px;">
-[![Status](https://img.shields.io/badge/🟢_SYSTEM-ONLINE-10B981?style=flat-square&logo=terminal&logoColor=white&labelColor=000000)]()
-[![AI](https://img.shields.io/badge/🧠_AI-ACTIVE-7C3AED?style=flat-square&logo=atom&logoColor=white&labelColor=000000)]()
+<!-- Status -->
+<div style="margin-top: 10px;">
+[![Status](https://img.shields.io/badge/🟢_ONLINE-10B981?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=000000)]()
+[![AI](https://img.shields.io/badge/🧠_ACTIVE-7C3AED?style=for-the-badge&logo=ai&logoColor=white&labelColor=000000)]()
 </div>
 
 </td>
