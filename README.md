@@ -112,126 +112,93 @@
 
 ### **🎯 ACTIVE MISSIONS**
 
-<svg width="400" height="320" viewBox="0 0 400 320" style="background: #000000; border: 2px solid #10B981; border-radius: 10px; box-shadow: 0 0 20px rgba(16, 185, 129, 0.3);">
-  <!-- Animated Python Code -->
-  <text x="20" y="40" font-family="Fira Code, monospace" font-size="12" fill="#10B981" font-weight="bold">
-    > python3 active_missions.py
-    <animate attributeName="opacity" values="0;1" dur="0.5s" fill="freeze"/>
-  </text>
+<!-- Simple SVG for Python Code -->
+<svg width="380" height="200" style="background: #000000; border: 2px solid #10B981; border-radius: 8px;">
+  <!-- Python Code -->
+  <text x="20" y="30" font-family="monospace" font-size="12" fill="#FF6B35">active_missions = {</text>
+  <text x="30" y="50" font-family="monospace" font-size="11" fill="#FFD700">"mission_001"</text>
+  <text x="140" y="50" font-family="monospace" font-size="11" fill="#FFFFFF">: </text>
+  <text x="155" y="50" font-family="monospace" font-size="11" fill="#10B981">"Kaggle Neural Competitions"</text>
+  <text x="155" y="50" font-family="monospace" font-size="11" fill="#FFFFFF">,</text>
   
-  <!-- Line 1 -->
-  <text x="20" y="70" font-family="Fira Code, monospace" font-size="12" fill="#FF6B35" font-weight="bold">active_missions</text>
-  <text x="155" y="70" font-family="Fira Code, monospace" font-size="12" fill="#FFFFFF"> = {</text>
-  <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.5s" fill="freeze"/>
+  <text x="30" y="70" font-family="monospace" font-size="11" fill="#FFD700">"mission_002"</text>
+  <text x="140" y="70" font-family="monospace" font-size="11" fill="#FFFFFF">: </text>
+  <text x="155" y="70" font-family="monospace" font-size="11" fill="#10B981">"RAG System Architecture"</text>
+  <text x="155" y="70" font-family="monospace" font-size="11" fill="#FFFFFF">,</text>
   
-  <!-- Mission 001 -->
-  <text x="30" y="95" font-family="Fira Code, monospace" font-size="11" fill="#FFD700">"mission_001"</text>
-  <text x="125" y="95" font-family="Fira Code, monospace" font-size="11" fill="#FFFFFF">: </text>
-  <text x="140" y="95" font-family="Fira Code, monospace" font-size="11" fill="#10B981">"Kaggle Neural Competitions"</text>
-  <text x="335" y="95" font-family="Fira Code, monospace" font-size="11" fill="#FFFFFF">,</text>
-  <animate attributeName="opacity" values="0;1" dur="0.5s" begin="1s" fill="freeze"/>
+  <text x="30" y="90" font-family="monospace" font-size="11" fill="#FFD700">"mission_003"</text>
+  <text x="140" y="90" font-family="monospace" font-size="11" fill="#FFFFFF">: </text>
+  <text x="155" y="90" font-family="monospace" font-size="11" fill="#10B981">"LLM Fine-tuning Protocols"</text>
+  <text x="155" y="90" font-family="monospace" font-size="11" fill="#FFFFFF">,</text>
   
-  <!-- Mission 002 -->
-  <text x="30" y="115" font-family="Fira Code, monospace" font-size="11" fill="#FFD700">"mission_002"</text>
-  <text x="125" y="115" font-family="Fira Code, monospace" font-size="11" fill="#FFFFFF">: </text>
-  <text x="140" y="115" font-family="Fira Code, monospace" font-size="11" fill="#10B981">"RAG System Architecture"</text>
-  <text x="310" y="115" font-family="Fira Code, monospace" font-size="11" fill="#FFFFFF">,</text>
-  <animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.5s" fill="freeze"/>
+  <text x="30" y="110" font-family="monospace" font-size="11" fill="#FFD700">"mission_004"</text>
+  <text x="140" y="110" font-family="monospace" font-size="11" fill="#FFFFFF">: </text>
+  <text x="155" y="110" font-family="monospace" font-size="11" fill="#10B981">"Server.zip Optimization"</text>
+  <text x="155" y="110" font-family="monospace" font-size="11" fill="#FFFFFF">,</text>
   
-  <!-- Mission 003 -->
-  <text x="30" y="135" font-family="Fira Code, monospace" font-size="11" fill="#FFD700">"mission_003"</text>
-  <text x="125" y="135" font-family="Fira Code, monospace" font-size="11" fill="#FFFFFF">: </text>
-  <text x="140" y="135" font-family="Fira Code, monospace" font-size="11" fill="#10B981">"LLM Fine-tuning Protocols"</text>
-  <text x="320" y="135" font-family="Fira Code, monospace" font-size="11" fill="#FFFFFF">,</text>
-  <animate attributeName="opacity" values="0;1" dur="0.5s" begin="2s" fill="freeze"/>
+  <text x="30" y="130" font-family="monospace" font-size="11" fill="#FFD700">"status"</text>
+  <text x="90" y="130" font-family="monospace" font-size="11" fill="#FFFFFF">: </text>
+  <text x="105" y="130" font-family="monospace" font-size="11" fill="#10B981">"ACTIVE_AND_LEARNING"</text>
   
-  <!-- Mission 004 -->
-  <text x="30" y="155" font-family="Fira Code, monospace" font-size="11" fill="#FFD700">"mission_004"</text>
-  <text x="125" y="155" font-family="Fira Code, monospace" font-size="11" fill="#FFFFFF">: </text>
-  <text x="140" y="155" font-family="Fira Code, monospace" font-size="11" fill="#10B981">"Server.zip Optimization"</text>
-  <text x="305" y="155" font-family="Fira Code, monospace" font-size="11" fill="#FFFFFF">,</text>
-  <animate attributeName="opacity" values="0;1" dur="0.5s" begin="2.5s" fill="freeze"/>
-  
-  <!-- Status -->
-  <text x="30" y="175" font-family="Fira Code, monospace" font-size="11" fill="#FFD700">"status"</text>
-  <text x="85" y="175" font-family="Fira Code, monospace" font-size="11" fill="#FFFFFF">: </text>
-  <text x="100" y="175" font-family="Fira Code, monospace" font-size="11" fill="#10B981">"ACTIVE_AND_LEARNING"</text>
-  <animate attributeName="opacity" values="0;1" dur="0.5s" begin="3s" fill="freeze"/>
-  
-  <!-- Closing Brace -->
-  <text x="20" y="195" font-family="Fira Code, monospace" font-size="12" fill="#FFFFFF">}</text>
-  <animate attributeName="opacity" values="0;1" dur="0.5s" begin="3.5s" fill="freeze"/>
-  
-  <!-- Output -->
-  <text x="20" y="225" font-family="Fira Code, monospace" font-size="12" fill="#7C3AED">
-    >> Mission status: 
-    <tspan fill="#10B981">ACTIVE_AND_LEARNING</tspan>
-  </text>
-  <text x="20" y="245" font-family="Fira Code, monospace" font-size="12" fill="#7C3AED">
-    >> Neural protocols engaged...
-  </text>
-  <animate attributeName="opacity" values="0;1" dur="0.5s" begin="4s" fill="freeze"/>
+  <text x="20" y="150" font-family="monospace" font-size="12" fill="#FFFFFF">}</text>
   
   <!-- Blinking Cursor -->
-  <rect x="25" y="260" width="8" height="14" fill="#10B981">
-    <animate attributeName="opacity" values="1;0;1" dur="1s" begin="4.5s" repeatCount="indefinite"/>
+  <rect x="25" y="160" width="6" height="12" fill="#10B981">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
   </rect>
 </svg>
+
+<!-- Mission Badges -->
+<div style="margin-top: 15px;">
+[![Kaggle](https://img.shields.io/badge/🔥_KAGGLE_NEURAL-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=000000)](https://kaggle.com)<br>
+[![RAG](https://img.shields.io/badge/🧠_RAG_ARCHITECTURE-10B981?style=for-the-badge&logo=redis&logoColor=white&labelColor=000000)](https://github.com)<br>
+[![LLM](https://img.shields.io/badge/⚡_LLM_PROTOCOLS-7C3AED?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000)](https://github.com)<br>
+[![Server](https://img.shields.io/badge/🚀_SERVER.ZIP-FF6B35?style=for-the-badge&logo=serverless&logoColor=white&labelColor=000000)](https://github.com)
+</div>
 
 </td>
 <td width="50%" align="center">
 
 ### **📡 TRANSMISSION FREQUENCIES**
 
-<svg width="400" height="320" viewBox="0 0 400 320" style="background: #000000; border: 2px solid #7C3AED; border-radius: 10px; box-shadow: 0 0 20px rgba(124, 58, 237, 0.3);">
-  <!-- Pulsing Background Effect -->
-  <rect x="10" y="10" width="380" height="300" rx="10" fill="none" stroke="#10B981" stroke-width="2" stroke-dasharray="10,5">
-    <animate attributeName="stroke-dashoffset" values="0;30;0" dur="3s" repeatCount="indefinite"/>
-  </rect>
-  
+<!-- Simple SVG for Social Links -->
+<svg width="380" height="200" style="background: #000000; border: 2px solid #7C3AED; border-radius: 8px;">
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/darshan-ganorkar" target="_blank">
-    <rect x="30" y="30" width="340" height="50" rx="10" fill="#0077B5"/>
-    <circle cx="60" cy="55" r="8" fill="white"/>
-    <text x="80" y="45" font-family="Arial" font-size="14" fill="white" font-weight="bold">LINKEDIN QUANTUM</text>
-    <text x="80" y="62" font-family="Arial" font-size="11" fill="white" opacity="0.9">Professional AI Network</text>
-    <animate attributeName="opacity" values="0.8;1;0.8" dur="2s" repeatCount="indefinite"/>
+    <rect x="20" y="20" width="340" height="35" rx="5" fill="#0077B5"/>
+    <text x="190" y="38" font-family="Arial" font-size="12" fill="white" text-anchor="middle" font-weight="bold">💼 LINKEDIN QUANTUM</text>
   </a>
   
   <!-- Instagram -->
   <a href="https://instagram.com/ganorkar_264" target="_blank">
-    <rect x="30" y="95" width="340" height="50" rx="10" fill="#E4405F"/>
-    <circle cx="60" cy="120" r="8" fill="white"/>
-    <text x="80" y="110" font-family="Arial" font-size="14" fill="white" font-weight="bold">INSTAGRAM NEURAL</text>
-    <text x="80" y="127" font-family="Arial" font-size="11" fill="white" opacity="0.9">Creative Tech Feed</text>
-    <animate attributeName="opacity" values="0.8;1;0.8" dur="2s" begin="0.5s" repeatCount="indefinite"/>
+    <rect x="20" y="65" width="340" height="35" rx="5" fill="#E4405F"/>
+    <text x="190" y="83" font-family="Arial" font-size="12" fill="white" text-anchor="middle" font-weight="bold">📸 INSTAGRAM NEURAL</text>
   </a>
   
   <!-- Gmail -->
   <a href="mailto:darshanganorkar444@gmail.com">
-    <rect x="30" y="160" width="340" height="50" rx="10" fill="#D14836"/>
-    <circle cx="60" cy="185" r="8" fill="white"/>
-    <text x="80" y="175" font-family="Arial" font-size="14" fill="white" font-weight="bold">GMAIL DATA STREAM</text>
-    <text x="80" y="192" font-family="Arial" font-size="11" fill="white" opacity="0.9">Direct Communication</text>
-    <animate attributeName="opacity" values="0.8;1;0.8" dur="2s" begin="1s" repeatCount="indefinite"/>
+    <rect x="20" y="110" width="340" height="35" rx="5" fill="#D14836"/>
+    <text x="190" y="128" font-family="Arial" font-size="12" fill="white" text-anchor="middle" font-weight="bold">📧 GMAIL DATA</text>
   </a>
   
   <!-- GitHub -->
   <a href="https://github.com/Darshan39-ML" target="_blank">
-    <rect x="30" y="225" width="340" height="50" rx="10" fill="#181717"/>
-    <circle cx="60" cy="250" r="8" fill="white"/>
-    <text x="80" y="240" font-family="Arial" font-size="14" fill="white" font-weight="bold">GITHUB SOURCE</text>
-    <text x="80" y="257" font-family="Arial" font-size="11" fill="white" opacity="0.9">AI Projects & Code</text>
-    <animate attributeName="opacity" values="0.8;1;0.8" dur="2s" begin="1.5s" repeatCount="indefinite"/>
+    <rect x="20" y="155" width="340" height="35" rx="5" fill="#181717"/>
+    <text x="190" y="173" font-family="Arial" font-size="12" fill="white" text-anchor="middle" font-weight="bold">💻 GITHUB SOURCE</text>
   </a>
 </svg>
+
+<!-- Status Indicators -->
+<div style="margin-top: 15px;">
+[![Status](https://img.shields.io/badge/🟢_SYSTEM-ONLINE-10B981?style=flat-square&logo=terminal&logoColor=white&labelColor=000000)]()
+[![AI](https://img.shields.io/badge/🧠_AI-ACTIVE-7C3AED?style=flat-square&logo=atom&logoColor=white&labelColor=000000)]()
+</div>
 
 </td>
 </tr>
 </table>
 
 </div>
-
 ---
 
 <div align="center">
