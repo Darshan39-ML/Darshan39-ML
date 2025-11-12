@@ -110,39 +110,51 @@
 <tr>
 <td width="50%" align="center">
 
-### **🚀 ACTIVE MISSIONS**
+### **🎯 NEURAL MISSIONS STATUS**
 
-<!-- Animated Mission Status -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=10B981&background=000000&center=true&vCenter=true&width=380&height=80&lines=🔥+KAGGLE+NEURAL+COMPETITIONS;🧠+RAG+SYSTEM+ARCHITECTURE;⚡+LLM+FINE-TUNING+PROTOCOLS;🚀+SERVER.ZIP+OPTIMIZATION" alt="Active Missions" />
+<!-- Mission Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Darshan39-ML&theme=react-dark&hide_border=true&area=true&custom_title=MISSION+CONTROL&line=10B981&point=7C3AED&color=FFFFFF&bg_color=000000" alt="Mission Activity" />
 
-<!-- Mission Progress Bars -->
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Darshan39-ML&repo=your-repo&theme=radical&bg_color=000000&title_color=10B981&text_color=FFFFFF" alt="Project 1" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Darshan39-ML&repo=your-repo&theme=radical&bg_color=000000&title_color=7C3AED&text_color=FFFFFF" alt="Project 2" />
+<!-- Current Focus -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=10B981&background=000000&center=true&vCenter=true&width=380&height=60&lines=🔬+Currently+Researching:+RAG+Systems;⚡+Developing:+LLM+Fine-tuning;🚀+Optimizing:+Neural+Architectures;🎯+Competing:+Kaggle+AI+Battles" alt="Current Focus" />
 
-<!-- Mission Status Badges -->
-<div style="margin-top: 15px;">
-[![Kaggle](https://img.shields.io/badge/🔥_KAGGLE_NEURAL-ACTIVE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=000000)](https://kaggle.com)
-[![RAG](https://img.shields.io/badge/🧠_RAG_ARCHITECTURE-BUILDING-10B981?style=for-the-badge&logo=redis&logoColor=white&labelColor=000000)](https://github.com)
-</div>
-<div style="margin-top: 10px;">
-[![LLM](https://img.shields.io/badge/⚡_LLM_PROTOCOLS-TRAINING-7C3AED?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000)](https://github.com)
-[![Server](https://img.shields.io/badge/🚀_SERVER.ZIP-OPTIMIZING-FF6B35?style=for-the-badge&logo=serverless&logoColor=white&labelColor=000000)](https://github.com)
+<!-- Mission Progress -->
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 15px;">
+[![AI Research](https://img.shields.io/badge/AI_RESEARCH-87%25-10B981?style=for-the-badge&logo=ai&logoColor=white&labelColor=000000)]()
+[![LLM Dev](https://img.shields.io/badge/LLM_DEV-65%25-7C3AED?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000)]()
+[![RAG Systems](https://img.shields.io/badge/RAG_SYSTEMS-92%25-007ACC?style=for-the-badge&logo=redis&logoColor=white&labelColor=000000)]()
+[![Kaggle](https://img.shields.io/badge/KAGGLE-78%25-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=000000)]()
 </div>
 
 </td>
 <td width="50%" align="center">
 
-### **📡 TRANSMISSION FREQUENCIES**
+### **📡 COMMUNICATION CHANNELS**
 
-<!-- Animated Social Links -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=7C3AED&background=000000&center=true&vCenter=true&width=380&height=80&lines=💼+LINKEDIN+QUANTUM+LINK;📸+INSTAGRAM+NEURAL+FEED;📧+GMAIL+DATA+STREAM;💻+GITHUB+SOURCE+CODE" alt="Transmission Frequencies" />
+<!-- Animated Contact Info -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=7C3AED&background=000000&center=true&vCenter=true&width=380&height=100&lines=🌐+CONNECT+WITH+ME;💼+Professional+AI+Discussions;📸+Tech+%26+Creative+Content;📧+Project+Collaborations;💻+Open+Source+Contributions" alt="Connect With Me" />
 
-<!-- Social Badges -->
-<div style="background: #000000; border: 2px solid #7C3AED; border-radius: 10px; padding: 15px; margin: 10px 0;">
-[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN_QUANTUM-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/darshan-ganorkar)<br>
-[![Instagram](https://img.shields.io/badge/📸_INSTAGRAM_NEURAL-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000)](https://instagram.com/ganorkar_264)<br>
-[![Gmail](https://img.shields.io/badge/📧_GMAIL_DATA-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:darshanganorkar444@gmail.com)<br>
-[![GitHub](https://img.shields.io/badge/💻_GITHUB_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/Darshan39-ML)
+<!-- Interactive Social Grid -->
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin: 15px 0;">
+<a href="https://linkedin.com/in/darshan-ganorkar" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"/>
+</a>
+<a href="https://instagram.com/ganorkar_264" target="_blank">
+<img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" alt="Instagram"/>
+</a>
+<a href="mailto:darshanganorkar444@gmail.com">
+<img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Gmail"/>
+</a>
+<a href="https://github.com/Darshan39-ML" target="_blank">
+<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/>
+</a>
+</div>
+
+<!-- Status Indicators -->
+<div style="background: #000000; border: 2px solid #10B981; border-radius: 10px; padding: 15px; margin-top: 10px;">
+[![Online Status](https://img.shields.io/badge/🟢_SYSTEM_STATUS-ONLINE-10B981?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=000000)]()
+[![AI Active](https://img.shields.io/badge/🧠_NEURAL_NETWORK-ACTIVE-7C3AED?style=for-the-badge&logo=atom&logoColor=white&labelColor=000000)]()
+[![Projects](https://img.shields.io/badge/🚀_PROJECTS-RUNNING-FF6B35?style=for-the-badge&logo=rocket&logoColor=white&labelColor=000000)]()
 </div>
 
 </td>
