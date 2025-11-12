@@ -12,10 +12,11 @@
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Darshan39-ML&show_icons=true&theme=onedark&hide_border=true&title_color=007ACC&icon_color=0e75b6" alt="Darshan's GitHub Stats" />
-  <p align="center">
-  <b>📈 GitHub Activity</b><br>
-  Consistent contributor | Passionate about AI/ML
-</p>
+  <div align="center">
+
+  ![Darshan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Darshan39-ML&theme=github-compact&hide_border=true&area=true&line=28A745&point=007ACC&custom_title=My%20Coding%20Activity%20Timeline&hide_title=false)
+
+</div>
 
 </div>
 
