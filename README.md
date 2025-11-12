@@ -3,82 +3,142 @@
   ![Custom Banner](https://github.com/Darshan39-ML/About-Me/blob/main/github-header-banner.png?raw=true)
   <br>
   </div -->
-<div>
-  <img src="https://img.shields.io/badge/%20-AI%2FML%20Developer%0A%20%2B%20LLM%20Enthusiast%0A%2B%20Building%20Intelligent%20Systems%0A%2B%20Recurzing%20Intelligent%20Algos%0A%2B%20Server.zip%20is%20lit-10B981?style=for-the-badge&labelColor=21262d&color=10B981&logo=github&logoColor=white&font=Press%20Start%202P&label=&cacheSeconds=3600&maxAge=3600" alt="Pixel Box Text" />
-</div>
-
-
----
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Darshan39-ML&show_icons=true&theme=onedark&hide_border=true&title_color=007ACC&icon_color=0e75b6" alt="Darshan's GitHub Stats" />
-  <div align="center">
 
-  ![Darshan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Darshan39-ML&theme=github-compact&hide_border=true&area=true&line=28A745&point=007ACC&custom_title=My%20Coding%20Activity%20Timeline&hide_title=false)
+<!-- CYBERPUNK ANIMATED HEADER -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=4000&pause=1000&color=10B981&center=true&vCenter=true&width=600&height=80&lines=%3E+DARSHAN+GANORKAR;%3E+AI+ARCHITECT;%3E+LLM+ENGINEER;%3E+NEURAL+INNOVATOR" alt="Cyberpunk Typing Animation" />
 
-</div>
+<!-- GLOWING STATUS BADGES -->
+<img src="https://img.shields.io/badge/⚡_SYSTEM_STATUS-ONLINE-10B981?style=for-the-badge&labelColor=000000&color=10B981&logo=atom&logoColor=white&font=Orbitron" alt="System Status" />
+<img src="https://img.shields.io/badge/🧠_NEURAL_NETWORK-ACTIVE-7C3AED?style=for-the-badge&labelColor=000000&color=7C3AED&logo=github&logoColor=white&font=Orbitron" alt="Neural Status" />
 
 </div>
 
 ---
 
-## 👋 Hi there!
-
 <div align="center">
-  <p>I am a dedicated <strong>AIML Developer</strong> and an enthusiastic member of the Artificial Intelligence community.</p>
-  
-  <p>"driven by a passion to learn and apply cutting-edge concepts in <strong>AI, RAG (Retrieval-Augmented Generation), and LLMs (Large Language Models)</strong> to build intelligent, impactful solutions."</p>
+
+## 🛰️ MISSION CONTROL DASHBOARD
+
+<!-- REAL-TIME CODING METRICS -->
+![AI Development Metrics](https://github-readme-stats.vercel.app/api?username=Darshan39-ML&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=7C3AED&text_color=FFFFFF&include_all_commits=true&count_private=true)
+
+<!-- NEURAL ACTIVITY GRAPH -->
+![Neural Activity Stream](https://github-readme-activity-graph.vercel.app/graph?username=Darshan39-ML&theme=react-dark&hide_border=true&area=true&custom_title=NEURAL_CODING_ACTIVITY&line=10B981&point=7C3AED&color=FFFFFF&bg_color=0D1117)
+
+<!-- QUANTUM PROCESSING STATS -->
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan39-ML&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=FFFFFF" alt="Quantum Language Processing" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Darshan39-ML&theme=radical&hide_border=true&background=0D1117&ring=10B981&fire=10B981&currStreakLabel=10B981" alt="Continuous Integration Streak" width="45%" />
 </div>
 
-### 🚀 Rapid Fire
-
-* **Current Focus:** Actively participating and contributing to **Kaggle competitions**.
-* **Learning Goals:** Deepening my expertise in the practical application of RAG and LLM architectures.
-
-### 🛠️ Core Technologies
-
-<div align="center">
-  <table>
-    <tr>
-      <td><b>Core Languages</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>Machine Learning</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-        <img src="https://img.shields.io/badge/Neural%20Networks-007ACC?style=flat-square&logo=tensorflow&logoColor=white" alt="Neural Networks" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>Advanced AI</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Large%20Language%20Models-7C3AED?style=flat-square&logo=openai&logoColor=white" alt="LLM" />
-        <img src="https://img.shields.io/badge/RAG%20(AI)-28A745?style=flat-square&logo=github&logoColor=white" alt="RAG" />
-      </td>
-    </tr>
-  </table>
 </div>
-
-
 
 ---
 
-### 📊 Activity & Connect
+<div align="center">
 
-<!-- SOCIAL MEDIA BADGES (CLICKABLE LINKS) -->
-  <a href="https://www.linkedin.com/in/darshan-ganorkar-7aa507312?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
-  </a>
-  <!-- Placeholder for your Instagram link -->
-  <a href="https://www.instagram.com/ganorkar_264?igsh=MTYza2duZTV0aXRrMA==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Profile" />
-  </a>
-  <!-- Placeholder for your Gmail link (mailto: opens email client) -->
-  <a href="darshanganorkar444@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Contact" />
-  </a>
+## 🎯 SYSTEM PROTOCOLS
+
+```bash
+> system_profile --user Darshan39-ML --mode detailed
+
+🧠 CORE_IDENTITY: AI/ML Developer
+⚡ SPECIALIZATION: Large Language Models
+🔬 RESEARCH_FOCUS: RAG Systems & Neural Architectures
+🎯 MISSION: Building tomorrow's intelligent systems today
+
+> neural_network --status active --learning_rate high
+> current_objective: "Advancing AGI through practical innovation"
+> energy_source: "Coffee + Code + Curiosity"
+```
+
 </div>
 
+---
+
+<div align="center">
+
+## 🛠️ NEURAL TOOLKIT MATRIX
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+#### **🧠 AI CORE**
+<img src="https://img.shields.io/badge/PYTHON_3.0-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" /><br/>
+<img src="https://img.shields.io/badge/PYTORCH_LIGHTNING-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=000000" /><br/>
+<img src="https://img.shields.io/badge/TENSORFLOW_2.0-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000" />
+
+</td>
+<td width="33%" align="center">
+
+#### **🚀 LLM ENGINE**
+<img src="https://img.shields.io/badge/TRANSFORMERS-FF6B35?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000" /><br/>
+<img src="https://img.shields.io/badge/LANGCHAIN-10B981?style=for-the-badge&logo=chainlink&logoColor=white&labelColor=000000" /><br/>
+<img src="https://img.shields.io/badge/RAG_SYSTEMS-7C3AED?style=for-the-badge&logo=redis&logoColor=white&labelColor=000000" />
+
+</td>
+<td width="33%" align="center">
+
+#### **🌐 NEURAL NET**
+<img src="https://img.shields.io/badge/OPENAI_API-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000" /><br/>
+<img src="https://img.shields.io/badge/VECTOR_DB-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white&labelColor=000000" /><br/>
+<img src="https://img.shields.io/badge/CLOUD_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=000000" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 ACTIVE NEURAL MISSIONS
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### **🎯 CURRENT FOCUS**
+```python
+active_missions = {
+    "mission_001": "Kaggle Neural Competitions",
+    "mission_002": "RAG System Architecture", 
+    "mission_003": "LLM Fine-tuning Protocols",
+    "mission_004": "Server.zip Optimization",
+    "status": "ACTIVE_AND_LEARNING"
+}
+```
+
+</td>
+<td width="50%" align="center">
+
+### **📡 TRANSMISSION FREQUENCIES**
+[![LinkedIn Quantum Link](https://img.shields.io/badge/LINKEDIN_QUANTUM-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/darshan-ganorkar)<br/>
+[![Instagram Neural Feed](https://img.shields.io/badge/INSTAGRAM_NEURAL-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000)](https://instagram.com/ganorkar_264)<br/>
+[![Gmail Data Stream](https://img.shields.io/badge/GMAIL_DATA-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:darshanganorkar444@gmail.com)<br/>
+[![GitHub Repository](https://img.shields.io/badge/GITHUB_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/Darshan39-ML)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=14&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=BUILDING+THE+FUTURE+ONE+NEURAL+NODE+AT+A+TIME;SYSTEM+STATUS:+INNOVATING;SERVER.ZIP:+OPERATIONAL;AGI+RESEARCH:+IN+PROGRESS" alt="System Status" />
+
+<br/>
+
+**"The best way to predict the future is to create it." - Alan Kay**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=60&section=footer" />
+
+</div>
