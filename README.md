@@ -110,51 +110,35 @@
 <tr>
 <td width="50%" align="center">
 
-### **🎯 NEURAL MISSIONS STATUS**
+### **🚀 CURRENT MISSIONS**
 
-<!-- Mission Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Darshan39-ML&theme=react-dark&hide_border=true&area=true&custom_title=MISSION+CONTROL&line=10B981&point=7C3AED&color=FFFFFF&bg_color=000000" alt="Mission Activity" />
+<!-- Animated Mission Display -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=10B981&background=000000&center=true&vCenter=true&width=400&height=120&lines=🎯+ACTIVE+NEURAL+MISSIONS;━━━━━━━━━━━━━━━━━━━━;🔥+Kaggle+AI+Competitions;🧠+RAG+System+Development;⚡+LLM+Fine-tuning+Research;🚀+Server+Architecture+Optimization" alt="Active Missions" />
 
-<!-- Current Focus -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=10B981&background=000000&center=true&vCenter=true&width=380&height=60&lines=🔬+Currently+Researching:+RAG+Systems;⚡+Developing:+LLM+Fine-tuning;🚀+Optimizing:+Neural+Architectures;🎯+Competing:+Kaggle+AI+Battles" alt="Current Focus" />
-
-<!-- Mission Progress -->
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 15px;">
-[![AI Research](https://img.shields.io/badge/AI_RESEARCH-87%25-10B981?style=for-the-badge&logo=ai&logoColor=white&labelColor=000000)]()
-[![LLM Dev](https://img.shields.io/badge/LLM_DEV-65%25-7C3AED?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000)]()
-[![RAG Systems](https://img.shields.io/badge/RAG_SYSTEMS-92%25-007ACC?style=for-the-badge&logo=redis&logoColor=white&labelColor=000000)]()
-[![Kaggle](https://img.shields.io/badge/KAGGLE-78%25-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=000000)]()
+<!-- Mission Badges -->
+<div style="margin-top: 15px;">
+[![Mission 1](https://img.shields.io/badge/🎯_MISSION_1-ACTIVE-10B981?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=000000)]()
+[![Mission 2](https://img.shields.io/badge/🎯_MISSION_2-BUILDING-7C3AED?style=for-the-badge&logo=redis&logoColor=white&labelColor=000000)]()
+</div>
+<div style="margin-top: 10px;">
+[![Mission 3](https://img.shields.io/badge/🎯_MISSION_3-RESEARCHING-007ACC?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000)]()
+[![Mission 4](https://img.shields.io/badge/🎯_MISSION_4-OPTIMIZING-FF6B35?style=for-the-badge&logo=serverless&logoColor=white&labelColor=000000)]()
 </div>
 
 </td>
 <td width="50%" align="center">
 
-### **📡 COMMUNICATION CHANNELS**
+### **📡 CONNECT WITH ME**
 
-<!-- Animated Contact Info -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=7C3AED&background=000000&center=true&vCenter=true&width=380&height=100&lines=🌐+CONNECT+WITH+ME;💼+Professional+AI+Discussions;📸+Tech+%26+Creative+Content;📧+Project+Collaborations;💻+Open+Source+Contributions" alt="Connect With Me" />
+<!-- Animated Connection Display -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=7C3AED&background=000000&center=true&vCenter=true&width=400&height=120&lines=🌐+TRANSMISSION+FREQUENCIES;━━━━━━━━━━━━━━━━━━━━;💼+LinkedIn+-+Professional;📸+Instagram+-+Creative;📧+Gmail+-+Collaboration;💻+GitHub+-+Projects" alt="Connect Channels" />
 
-<!-- Interactive Social Grid -->
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin: 15px 0;">
-<a href="https://linkedin.com/in/darshan-ganorkar" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"/>
-</a>
-<a href="https://instagram.com/ganorkar_264" target="_blank">
-<img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" alt="Instagram"/>
-</a>
-<a href="mailto:darshanganorkar444@gmail.com">
-<img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Gmail"/>
-</a>
-<a href="https://github.com/Darshan39-ML" target="_blank">
-<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/>
-</a>
-</div>
-
-<!-- Status Indicators -->
-<div style="background: #000000; border: 2px solid #10B981; border-radius: 10px; padding: 15px; margin-top: 10px;">
-[![Online Status](https://img.shields.io/badge/🟢_SYSTEM_STATUS-ONLINE-10B981?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=000000)]()
-[![AI Active](https://img.shields.io/badge/🧠_NEURAL_NETWORK-ACTIVE-7C3AED?style=for-the-badge&logo=atom&logoColor=white&labelColor=000000)]()
-[![Projects](https://img.shields.io/badge/🚀_PROJECTS-RUNNING-FF6B35?style=for-the-badge&logo=rocket&logoColor=white&labelColor=000000)]()
+<!-- Social Links -->
+<div style="background: #000000; border: 2px solid #7C3AED; border-radius: 10px; padding: 15px; margin-top: 15px;">
+[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/darshan-ganorkar)
+[![Instagram](https://img.shields.io/badge/📸_INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000)](https://instagram.com/ganorkar_264)
+[![Gmail](https://img.shields.io/badge/📧_GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:darshanganorkar444@gmail.com)
+[![GitHub](https://img.shields.io/badge/💻_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/Darshan39-ML)
 </div>
 
 </td>
