@@ -116,23 +116,32 @@
 <td width="50%" align="center">
 
 ### **🎯 CURRENT FOCUS**
-<!-- PYTHON CODE STYLE -->
-<div style="background: #0D1117; border: 2px solid #7C3AED; border-radius: 10px; padding: 20px; margin: 20px 0; font-family: 'Courier New', monospace; text-align: left;">
-  <div style="color: #10B981; font-weight: bold; margin-bottom: 15px;">
-    # active_missions.py
+  <!-- Python Code Content -->
+  <div style="color: #E2E8F0; line-height: 1.6;">
+    <div style="color: #FF6B35; font-weight: 600;">active_missions</div> <span style="color: #FFFFFF;">= {</span><br>
+    <div style="margin-left: 20px;">
+      <span style="color: #FFD700;">"mission_001"</span><span style="color: #FFFFFF;">:</span> <span style="color: #10B981;">"Kaggle Neural Competitions"</span><span style="color: #FFFFFF;">,</span><br>
+      <span style="color: #FFD700;">"mission_002"</span><span style="color: #FFFFFF;">:</span> <span style="color: #10B981;">"RAG System Architecture"</span><span style="color: #FFFFFF;">,</span><br>
+      <span style="color: #FFD700;">"mission_003"</span><span style="color: #FFFFFF;">:</span> <span style="color: #10B981;">"LLM Fine-tuning Protocols"</span><span style="color: #FFFFFF;">,</span><br>
+      <span style="color: #FFD700;">"mission_004"</span><span style="color: #FFFFFF;">:</span> <span style="color: #10B981;">"Server.zip Optimization"</span><span style="color: #FFFFFF;">,</span><br>
+      <span style="color: #FFD700;">"status"</span><span style="color: #FFFFFF;">:</span> <span style="color: #10B981;">"ACTIVE_AND_LEARNING"</span><br>
+    </div>
+    <span style="color: #FFFFFF;">}</span>
   </div>
-  
-  <div style="color: #FF6B35;">active_missions</div> <span style="color: #FFFFFF;">= {</span><br>
-  &nbsp;&nbsp;<span style="color: #FFD700;">"mission_001"</span><span style="color: #FFFFFF;">:</span> <span style="color: #10B981;">"Kaggle Neural Competitions"</span><span style="color: #FFFFFF;">,</span><br>
-  &nbsp;&nbsp;<span style="color: #FFD700;">"mission_002"</span><span style="color: #FFFFFF;">:</span> <span style="color: #10B981;">"RAG System Architecture"</span><span style="color: #FFFFFF;">,</span><br>
-  &nbsp;&nbsp;<span style="color: #FFD700;">"mission_003"</span><span style="color: #FFFFFF;">:</span> <span style="color: #10B981;">"LLM Fine-tuning Protocols"</span><span style="color: #FFFFFF;">,</span><br>
-  &nbsp;&nbsp;<span style="color: #FFD700;">"mission_004"</span><span style="color: #FFFFFF;">:</span> <span style="color: #10B981;">"Server.zip Optimization"</span><span style="color: #FFFFFF;">,</span><br>
-  &nbsp;&nbsp;<span style="color: #FFD700;">"status"</span><span style="color: #FFFFFF;">:</span> <span style="color: #10B981;">"ACTIVE_AND_LEARNING"</span><br>
-  <span style="color: #FFFFFF;">}</span>
+   <!-- Python Console Output -->
+  <div style="margin-top: 20px; padding-top: 15px; border-top: 1px solid #2D3748;">
+    <div style="color: #10B981; font-weight: 600; margin-bottom: 10px;">
+      <span style="color: #7C3AED;">╰─</span>
+      <span style="margin-left: 8px;">$ python3 active_missions.py</span>
+    </div>
+    <div style="color: #CBD5E0; font-style: italic;">
+      >> Mission status: ACTIVE_AND_LEARNING<br>
+      >> Neural protocols engaged...
+    </div>
+  </div>
 </div>
 
 </div>
-```
 
 </td>
 <td width="50%" align="center">
