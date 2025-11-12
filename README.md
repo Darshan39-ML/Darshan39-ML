@@ -113,23 +113,95 @@
 
 ### **🎯 ACTIVE MISSIONS**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=4000&pause=1000&color=10B981&background=000000&center=true&vCenter=true&width=400&height=60&lines=active_missions+%3D+%7B;%22mission_001%22%3A+%22Kaggle+Neural+Competitions%22;%22mission_002%22%3A+%22RAG+System+Architecture%22;%22mission_003%22%3A+%22LLM+Fine%E2%80%90tuning+Protocols%22;%22mission_004%22%3A+%22Server.zip+Optimization%22;%22status%22%3A+%22ACTIVE_AND_LEARNING%22;%7D" alt="Python Code Animation" />
-
-<div style="margin-top: 15px;">
-[![Kaggle Competitions](https://img.shields.io/badge/🔥_KAGGLE_NEURAL-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=000000)](https://kaggle.com)<br/>
-[![RAG Systems](https://img.shields.io/badge/🧠_RAG_ARCHITECTURE-10B981?style=for-the-badge&logo=redis&logoColor=white&labelColor=000000)](https://github.com)<br/>
-[![LLM Protocols](https://img.shields.io/badge/⚡_LLM_FINE_TUNING-7C3AED?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000)](https://github.com)<br/>
-[![Server Optimization](https://img.shields.io/badge/🚀_SERVER.ZIP-FF6B35?style=for-the-badge&logo=serverless&logoColor=white&labelColor=000000)](https://github.com)
-</div>
+<svg width="400" height="280" viewBox="0 0 400 280" style="background: #000000; border: 2px solid #10B981; border-radius: 10px;">
+  <!-- Python Code -->
+  <text x="20" y="40" font-family="Fira Code, monospace" font-size="12" fill="#FF6B35" font-weight="bold">active_missions</text>
+  <text x="20" y="40" font-family="Fira Code, monospace" font-size="12" fill="#FFFFFF"> = {</text>
+  
+  <text x="30" y="65" font-family="Fira Code, monospace" font-size="11" fill="#FFD700">"mission_001"</text>
+  <text x="30" y="65" font-family="Fira Code, monospace" font-size="11" fill="#FFFFFF">: </text>
+  <text x="150" y="65" font-family="Fira Code, monospace" font-size="11" fill="#10B981">"Kaggle Neural Competitions"</text>
+  <text x="150" y="65" font-family="Fira Code, monospace" font-size="11" fill="#FFFFFF">,</text>
+  
+  <text x="30" y="85" font-family="Fira Code, monospace" font-size="11" fill="#FFD700">"mission_002"</text>
+  <text x="30" y="85" font-family="Fira Code, monospace" font-size="11" fill="#FFFFFF">: </text>
+  <text x="150" y="85" font-family="Fira Code, monospace" font-size="11" fill="#10B981">"RAG System Architecture"</text>
+  <text x="150" y="85" font-family="Fira Code, monospace" font-size="11" fill="#FFFFFF">,</text>
+  
+  <text x="30" y="105" font-family="Fira Code, monospace" font-size="11" fill="#FFD700">"mission_003"</text>
+  <text x="30" y="105" font-family="Fira Code, monospace" font-size="11" fill="#FFFFFF">: </text>
+  <text x="150" y="105" font-family="Fira Code, monospace" font-size="11" fill="#10B981">"LLM Fine-tuning Protocols"</text>
+  <text x="150" y="105" font-family="Fira Code, monospace" font-size="11" fill="#FFFFFF">,</text>
+  
+  <text x="30" y="125" font-family="Fira Code, monospace" font-size="11" fill="#FFD700">"mission_004"</text>
+  <text x="30" y="125" font-family="Fira Code, monospace" font-size="11" fill="#FFFFFF">: </text>
+  <text x="150" y="125" font-family="Fira Code, monospace" font-size="11" fill="#10B981">"Server.zip Optimization"</text>
+  <text x="150" y="125" font-family="Fira Code, monospace" font-size="11" fill="#FFFFFF">,</text>
+  
+  <text x="30" y="145" font-family="Fira Code, monospace" font-size="11" fill="#FFD700">"status"</text>
+  <text x="30" y="145" font-family="Fira Code, monospace" font-size="11" fill="#FFFFFF">: </text>
+  <text x="150" y="145" font-family="Fira Code, monospace" font-size="11" fill="#10B981">"ACTIVE_AND_LEARNING"</text>
+  
+  <text x="20" y="165" font-family="Fira Code, monospace" font-size="12" fill="#FFFFFF">}</text>
+  
+  <!-- Blinking Cursor -->
+  <rect x="25" y="175" width="8" height="14" fill="#10B981">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+  
+  <!-- Mission Badges -->
+  <a href="https://kaggle.com" target="_blank">
+    <rect x="20" y="200" width="360" height="25" rx="5" fill="#20BEFF" opacity="0.9"/>
+    <text x="200" y="215" font-family="Arial" font-size="10" fill="white" text-anchor="middle" font-weight="bold">🔥 KAGGLE NEURAL COMPETITIONS</text>
+  </a>
+  
+  <a href="https://github.com" target="_blank">
+    <rect x="20" y="230" width="360" height="25" rx="5" fill="#10B981" opacity="0.9"/>
+    <text x="200" y="245" font-family="Arial" font-size="10" fill="white" text-anchor="middle" font-weight="bold">🧠 RAG SYSTEM ARCHITECTURE</text>
+  </a>
+  
+  <a href="https://github.com" target="_blank">
+    <rect x="20" y="260" width="360" height="25" rx="5" fill="#7C3AED" opacity="0.9"/>
+    <text x="200" y="275" font-family="Arial" font-size="10" fill="white" text-anchor="middle" font-weight="bold">⚡ LLM FINE-TUNING PROTOCOLS</text>
+  </a>
+</svg>
 
 </td>
 <td width="50%" align="center">
 
 ### **📡 TRANSMISSION FREQUENCIES**
-[![LinkedIn Quantum Link](https://img.shields.io/badge/💼_LINKEDIN_QUANTUM-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/darshan-ganorkar)<br/>
-[![Instagram Neural Feed](https://img.shields.io/badge/📸_INSTAGRAM_NEURAL-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000)](https://instagram.com/ganorkar_264)<br/>
-[![Gmail Data Stream](https://img.shields.io/badge/📧_GMAIL_DATA-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:darshanganorkar444@gmail.com)<br/>
-[![GitHub Repository](https://img.shields.io/badge/💻_GITHUB_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/Darshan39-ML)
+
+<svg width="400" height="280" viewBox="0 0 400 280" style="background: #000000; border: 2px solid #7C3AED; border-radius: 10px;">
+  <!-- Social Links -->
+  <a href="https://linkedin.com/in/darshan-ganorkar" target="_blank">
+    <rect x="20" y="30" width="360" height="40" rx="8" fill="#0077B5" opacity="0.9"/>
+    <text x="200" y="52" font-family="Arial" font-size="12" fill="white" text-anchor="middle" font-weight="bold">💼 LINKEDIN QUANTUM LINK</text>
+    <text x="200" y="67" font-family="Arial" font-size="9" fill="white" text-anchor="middle">Professional Network</text>
+  </a>
+  
+  <a href="https://instagram.com/ganorkar_264" target="_blank">
+    <rect x="20" y="85" width="360" height="40" rx="8" fill="#E4405F" opacity="0.9"/>
+    <text x="200" y="107" font-family="Arial" font-size="12" fill="white" text-anchor="middle" font-weight="bold">📸 INSTAGRAM NEURAL FEED</text>
+    <text x="200" y="122" font-family="Arial" font-size="9" fill="white" text-anchor="middle">Creative Portfolio</text>
+  </a>
+  
+  <a href="mailto:darshanganorkar444@gmail.com">
+    <rect x="20" y="140" width="360" height="40" rx="8" fill="#D14836" opacity="0.9"/>
+    <text x="200" y="162" font-family="Arial" font-size="12" fill="white" text-anchor="middle" font-weight="bold">📧 GMAIL DATA STREAM</text>
+    <text x="200" y="177" font-family="Arial" font-size="9" fill="white" text-anchor="middle">Direct Communication</text>
+  </a>
+  
+  <a href="https://github.com/Darshan39-ML" target="_blank">
+    <rect x="20" y="195" width="360" height="40" rx="8" fill="#181717" opacity="0.9"/>
+    <text x="200" y="217" font-family="Arial" font-size="12" fill="white" text-anchor="middle" font-weight="bold">💻 GITHUB SOURCE CODE</text>
+    <text x="200" y="232" font-family="Arial" font-size="9" fill="white" text-anchor="middle">Projects & Contributions</text>
+  </a>
+  
+  <!-- Animated Connection Lines -->
+  <line x1="200" y1="30" x2="200" y2="235" stroke="#10B981" stroke-width="2" stroke-dasharray="5,5">
+    <animate attributeName="stroke-dashoffset" values="0;20;0" dur="2s" repeatCount="indefinite"/>
+  </line>
+</svg>
 
 </td>
 </tr>
