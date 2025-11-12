@@ -12,7 +12,7 @@
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Darshan39-ML&show_icons=true&theme=onedark&hide_border=true&title_color=007ACC&icon_color=0e75b6" alt="Darshan's GitHub Stats" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Darshan39-ML&theme=blue-green&hide_border=true" alt="Darshan's GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Darshan39-ML&theme=dark&hide_border=true&background=0D1117&fire=28A745&ring=28A745&currStreakLabel=28A745" alt="Darshan's GitHub Contribution Streak" />
 
 </div>
 
