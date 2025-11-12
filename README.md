@@ -10,42 +10,31 @@
 ---
 
 <div align="center">
-  <h2>👋 Hi there! dedicated AIML Developer</h2>
-  <img src="https://komarev.com/ghpvc/?username=Darshan39-ML&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
-
-<table width="100%" role="presentation">
-  <tr>
-    <td valign="top" width="55%" style="padding: 10px;">
-      <blockquote style="text-align: left;">
-        <p>"driven by a passion to learn and apply cutting-edge concepts in **AI, RAG (Retrieval-Augmented Generation), and LLMs (Large Language Models)** to build intelligent, impactful solutions."</p>
-      </blockquote>
-      
-
----
-
-### 💡 About Me
-
-> "Driven by a passion to learn and apply cutting-edge concepts in **AI, RAG (Retrieval-Augmented Generation), and LLMs (Large Language Models)** to build intelligent, impactful solutions."
-
-* **Current Focus:** Actively participating and contributing to **Kaggle competitions**.
-* **Learning Goals:** Deepening my expertise in the practical application of RAG and LLM architectures.
-
-
-### 🛠️ Core Technologies
-
-<div>
   <table>
     <tr>
-      <td align="center"><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /><br>Python</td>
-      <td align="center"><img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" /><br>PyTorch</td>
-      <td align="center"><img src="https://img.shields.io/badge/Neural%20Networks-007ACC?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Neural Networks" /><br>NN</td>
-      <td align="center"><img src="https://img.shields.io/badge/Large%20Language%20Models-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="LLM" /><br>LLM</td>
-      <td align="center"><img src="https://img.shields.io/badge/RAG%20(AI)-28A745?style=for-the-badge&logo=github&logoColor=white" alt="RAG" /><br>RAG</td>
-      <td align="center"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /><br>Kaggle</td>
+      <td><b>Core Languages</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>Machine Learning</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+        <img src="https://img.shields.io/badge/Neural%20Networks-007ACC?style=flat-square&logo=tensorflow&logoColor=white" alt="Neural Networks" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>Advanced AI</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Large%20Language%20Models-7C3AED?style=flat-square&logo=openai&logoColor=white" alt="LLM" />
+        <img src="https://img.shields.io/badge/RAG%20(AI)-28A745?style=flat-square&logo=github&logoColor=white" alt="RAG" />
+      </td>
     </tr>
   </table>
 </div>
+
+
 
 ---
 
