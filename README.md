@@ -7,7 +7,30 @@
   <img src="https://img.shields.io/badge/%20-AI%2FML%20Developer%0A%20%2B%20LLM%20Enthusiast%0A%2B%20Building%20Intelligent%20Systems%0A%2B%20Recurzing%20Intelligent%20Algos%0A%2B%20Server.zip%20is%20lit-10B981?style=for-the-badge&labelColor=21262d&color=10B981&logo=github&logoColor=white&font=Press%20Start%202P&label=&cacheSeconds=3600&maxAge=3600" alt="Pixel Box Text" />
 </div>
 
+
 ---
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Darshan39-ML&show_icons=true&theme=onedark&hide_border=true&title_color=007ACC&icon_color=0e75b6" alt="Darshan's GitHub Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Darshan39-ML&theme=highcontrast&hide_border=true" alt="Darshan's GitHub Streak" />
+</div>
+
+---
+
+## 👋 Hi there!
+
+<div align="center">
+  <p>I am a dedicated <strong>AIML Developer</strong> and an enthusiastic member of the Artificial Intelligence community.</p>
+  
+  <p>"driven by a passion to learn and apply cutting-edge concepts in <strong>AI, RAG (Retrieval-Augmented Generation), and LLMs (Large Language Models)</strong> to build intelligent, impactful solutions."</p>
+</div>
+
+### 🚀 Rapid Fire
+
+* **Current Focus:** Actively participating and contributing to **Kaggle competitions**.
+* **Learning Goals:** Deepening my expertise in the practical application of RAG and LLM architectures.
+
+### 🛠️ Core Technologies
 
 <div align="center">
   <table>
