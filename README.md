@@ -40,28 +40,124 @@
 
 <div align="center">
 
-<!-- TERMINAL STYLE OUTPUT -->
-<div style="background: #000000; border: 2px solid #10B981; border-radius: 10px; padding: 20px; margin: 20px 0; font-family: 'Courier New', monospace; text-align: left;">
-  <div style="color: #10B981; font-weight: bold; margin-bottom: 15px;">
-    > system_profile --user Darshan39-ML --mode detailed
-  </div>
+<!-- INTERACTIVE ANIMATED TERMINAL -->
+<div id="cyberTerminal" style="background: linear-gradient(135deg, #0a0a0a 0%, #000000 100%); border: 2px solid #10B981; border-radius: 12px; padding: 25px; margin: 25px 0; font-family: 'Fira Code', 'Courier New', monospace; text-align: left; box-shadow: 0 0 30px rgba(16, 185, 129, 0.3); position: relative; overflow: hidden; cursor: pointer; transition: all 0.3s ease;"
+     onmouseover="this.style.boxShadow='0 0 40px rgba(16, 185, 129, 0.5)'; this.style.transform='translateY(-2px)';"
+     onmouseout="this.style.boxShadow='0 0 30px rgba(16, 185, 129, 0.3)'; this.style.transform='translateY(0)';">
+
+  <!-- Animated Scan Line -->
+  <div style="position: absolute; top: 0; left: 0; right: 0; height: 2px; background: linear-gradient(90deg, transparent, #10B981, transparent); animation: scanLine 3s infinite;"></div>
   
-  <div style="color: #FFFFFF; line-height: 1.6;">
-    <span style="color: #7C3AED;">🧠 CORE_IDENTITY:</span> AI/ML Developer<br>
-    <span style="color: #10B981;">⚡ SPECIALIZATION:</span> Large Language Models<br>
-    <span style="color: #007ACC;">🔬 RESEARCH_FOCUS:</span> RAG Systems & Neural Architectures<br>
-    <span style="color: #FF6B35;">🎯 MISSION:</span> Building tomorrow's intelligent systems today
+  <!-- Terminal Header -->
+  <div style="display: flex; align-items: center; margin-bottom: 20px; padding-bottom: 15px; border-bottom: 1px solid #2D3748;">
+    <div style="display: flex; gap: 8px; margin-right: auto;">
+      <div style="width: 12px; height: 12px; border-radius: 50%; background: #FF5F57; animation: pulseRed 2s infinite;"></div>
+      <div style="width: 12px; height: 12px; border-radius: 50%; background: #FFBD2E; animation: pulseYellow 2s infinite 0.5s;"></div>
+      <div style="width: 12px; height: 12px; border-radius: 50%; background: #28CA42; animation: pulseGreen 2s infinite 1s;"></div>
+    </div>
+    <div style="color: #10B981; font-size: 12px; font-weight: 600;">NEURAL_TERMINAL — ACTIVE — 80×24</div>
   </div>
-  
-  <div style="color: #10B981; font-weight: bold; margin: 15px 0;">
-    > neural_network --status active --learning_rate high
+
+  <!-- Animated Command Line -->
+  <div style="color: #10B981; font-weight: 600; margin-bottom: 15px; display: flex; align-items: center;">
+    <span style="color: #7C3AED;">╭─</span>
+    <span style="margin: 0 8px; background: linear-gradient(45deg, #10B981, #7C3AED); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 700;">darshan@neural-network</span>
+    <span style="color: #7C3AED;">─</span>
+    <span style="color: #10B981; margin: 0 8px;">[~/system]</span>
   </div>
-  
-  <div style="color: #FFFFFF; line-height: 1.6;">
-    <span style="color: #7C3AED;">> current_objective:</span> <span style="color: #FFD700;">"Advancing AGI through practical innovation"</span><br>
-    <span style="color: #7C3AED;">> energy_source:</span> <span style="color: #FFD700;">"Coffee + Code + Curiosity"</span>
+
+  <!-- Typewriter Effect Command -->
+  <div id="command1" style="color: #10B981; font-weight: 600; margin-bottom: 20px; opacity: 0; animation: typeIn 0.8s ease-out 0.5s forwards;">
+    <span style="color: #7C3AED;">╰─</span>
+    <span style="margin-left: 8px;">$ system_profile --user Darshan39-ML --mode detailed</span>
+    <span class="cursor" style="animation: blink 1s infinite;">▊</span>
   </div>
+
+  <!-- Animated Output -->
+  <div id="output1" style="color: #E2E8F0; line-height: 1.8; margin-left: 20px; opacity: 0; animation: fadeInUp 0.6s ease-out 1.3s forwards;">
+    <div style="animation: slideInLeft 0.5s ease-out 1.5s forwards; opacity: 0;"><span style="color: #7C3AED;">┌─</span><span style="color: #10B981; margin: 0 10px;">🧠 CORE_IDENTITY</span><span style="color: #CBD5E0;">:</span> <span style="background: linear-gradient(45deg, #7C3AED, #10B981); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 600;">AI/ML Developer</span></div>
+    <div style="animation: slideInLeft 0.5s ease-out 1.7s forwards; opacity: 0;"><span style="color: #7C3AED;">├─</span><span style="color: #10B981; margin: 0 10px;">⚡ SPECIALIZATION</span><span style="color: #CBD5E0;">:</span> <span style="background: linear-gradient(45deg, #10B981, #007ACC); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 600;">Large Language Models</span></div>
+    <div style="animation: slideInLeft 0.5s ease-out 1.9s forwards; opacity: 0;"><span style="color: #7C3AED;">├─</span><span style="color: #10B981; margin: 0 10px;">🔬 RESEARCH_FOCUS</span><span style="color: #CBD5E0;">:</span> <span style="background: linear-gradient(45deg, #007ACC, #7C3AED); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 600;">RAG Systems & Neural Architectures</span></div>
+    <div style="animation: slideInLeft 0.5s ease-out 2.1s forwards; opacity: 0;"><span style="color: #7C3AED;">╰─</span><span style="color: #10B981; margin: 0 10px;">🎯 MISSION</span><span style="color: #CBD5E0;">:</span> <span style="background: linear-gradient(45deg, #FF6B35, #10B981); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 600;">Building tomorrow's intelligent systems today</span></div>
+  </div>
+
+  <!-- Second Command -->
+  <div id="command2" style="color: #10B981; font-weight: 600; margin: 25px 0 20px; opacity: 0; animation: typeIn 0.8s ease-out 2.5s forwards;">
+    <span style="color: #7C3AED;">╰─</span>
+    <span style="margin-left: 8px;">$ neural_network --status active --learning_rate high</span>
+    <span class="cursor" style="animation: blink 1s infinite 3s;">▊</span>
+  </div>
+
+  <!-- Second Output -->
+  <div id="output2" style="color: #E2E8F0; line-height: 1.8; margin-left: 20px; opacity: 0; animation: fadeInUp 0.6s ease-out 3.3s forwards;">
+    <div style="animation: slideInLeft 0.5s ease-out 3.5s forwards; opacity: 0;"><span style="color: #7C3AED;">></span> <span style="color: #FF6B35; font-weight: 600;">current_objective</span><span style="color: #CBD5E0;">:</span> <span style="color: #FFD700; font-style: italic; text-shadow: 0 0 10px rgba(255, 215, 0, 0.5);">"Advancing AGI through practical innovation"</span></div>
+    <div style="animation: slideInLeft 0.5s ease-out 3.7s forwards; opacity: 0;"><span style="color: #7C3AED;">></span> <span style="color: #FF6B35; font-weight: 600;">energy_source</span><span style="color: #CBD5E0;">:</span> <span style="color: #FFD700; font-style: italic; text-shadow: 0 0 10px rgba(255, 215, 0, 0.5);">"Coffee + Code + Curiosity"</span></div>
+  </div>
+
+  <!-- Status Bar -->
+  <div style="margin-top: 25px; padding-top: 15px; border-top: 1px solid #2D3748; text-align: center;">
+    <div style="display: inline-flex; gap: 20px; font-size: 12px;">
+      <span style="color: #10B981;">🟢 SYSTEM: ONLINE</span>
+      <span style="color: #7C3AED;">⚡ NEURAL: ACTIVE</span>
+      <span style="color: #FF6B35;">🎯 MISSION: RUNNING</span>
+    </div>
+  </div>
+
 </div>
+
+<style>
+@keyframes scanLine {
+  0% { transform: translateY(-100%); opacity: 0; }
+  50% { opacity: 1; }
+  100% { transform: translateY(500px); opacity: 0; }
+}
+
+@keyframes pulseRed {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.5; box-shadow: 0 0 10px #FF5F57; }
+}
+
+@keyframes pulseYellow {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.5; box-shadow: 0 0 10px #FFBD2E; }
+}
+
+@keyframes pulseGreen {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.5; box-shadow: 0 0 10px #28CA42; }
+}
+
+@keyframes typeIn {
+  0% { opacity: 0; transform: translateX(-10px); }
+  100% { opacity: 1; transform: translateX(0); }
+}
+
+@keyframes fadeInUp {
+  0% { opacity: 0; transform: translateY(10px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes slideInLeft {
+  0% { opacity: 0; transform: translateX(-20px); }
+  100% { opacity: 1; transform: translateX(0); }
+}
+
+@keyframes blink {
+  0%, 50% { opacity: 1; }
+  51%, 100% { opacity: 0; }
+}
+
+/* Hover effects */
+#cyberTerminal:hover {
+  border-color: #7C3AED;
+  box-shadow: 0 0 50px rgba(124, 58, 237, 0.4);
+}
+
+/* Glow effect for important text */
+.glow-text {
+  text-shadow: 0 0 10px currentColor;
+}
+</style>
 
 </div>
 
