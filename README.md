@@ -103,6 +103,8 @@
     font-family: 'Courier New', monospace;
 ">
 
+---
+
 <div align="center">
 
 <table>
@@ -118,6 +120,21 @@
 [![RAG Systems](https://img.shields.io/badge/🧠_RAG_ARCHITECTURE-10B981?style=for-the-badge&logo=redis&logoColor=white&labelColor=000000)](https://github.com)<br/>
 [![LLM Protocols](https://img.shields.io/badge/⚡_LLM_FINE_TUNING-7C3AED?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000)](https://github.com)<br/>
 [![Server Optimization](https://img.shields.io/badge/🚀_SERVER.ZIP-FF6B35?style=for-the-badge&logo=serverless&logoColor=white&labelColor=000000)](https://github.com)
+</div>
+
+</td>
+<td width="50%" align="center">
+
+### **📡 TRANSMISSION FREQUENCIES**
+[![LinkedIn Quantum Link](https://img.shields.io/badge/💼_LINKEDIN_QUANTUM-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/darshan-ganorkar)<br/>
+[![Instagram Neural Feed](https://img.shields.io/badge/📸_INSTAGRAM_NEURAL-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000)](https://instagram.com/ganorkar_264)<br/>
+[![Gmail Data Stream](https://img.shields.io/badge/📧_GMAIL_DATA-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:darshanganorkar444@gmail.com)<br/>
+[![GitHub Repository](https://img.shields.io/badge/💻_GITHUB_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/Darshan39-ML)
+
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
