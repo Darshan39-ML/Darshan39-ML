@@ -21,9 +21,6 @@
 
 ## 🛰️ MISSION CONTROL DASHBOARD
 
-<!-- REAL-TIME CODING METRICS -->
-![AI Development Metrics](https://github-readme-stats.vercel.app/api?username=Darshan39-ML&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=7C3AED&text_color=FFFFFF&include_all_commits=true&count_private=true)
-
 <!-- NEURAL ACTIVITY GRAPH -->
 ![Neural Activity Stream](https://github-readme-activity-graph.vercel.app/graph?username=Darshan39-ML&theme=react-dark&hide_border=true&area=true&custom_title=NEURAL_CODING_ACTIVITY&line=10B981&point=7C3AED&color=FFFFFF&bg_color=0D1117)
 
