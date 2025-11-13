@@ -1,8 +1,8 @@
-<!-- div>
+<div>
   
-  ![Custom Banner](https://github.com/Darshan39-ML/About-Me/blob/main/github-header-banner.png?raw=true)
+  ![Custom Banner](https://github.com/Darshan39-ML/About-Me/blob/main/github-header-banner(1).png?raw=true)
   <br>
-  </div -->
+  </div>
 
 <div align="center">
 
