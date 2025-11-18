@@ -1,6 +1,6 @@
 <div>
   
-  ![Custom Banner](https://github.com/Darshan39-ML/Darshan39-ML/blob/bee8b035d237b0bd1c0757c2633312c78098d247/Gemini_Generated_Image_vup4n8vup4n8vup4.png)
+  ![Custom Banner](https://github.com/Darshan39-ML/Darshan39-ML/blob/523e4ff3e0d83b53d3c95e57ddbf58a43e056f78/Gemini_Generated_Image_vup4n8vup4n8vup4.png)
   <br>
   </div>
 
