@@ -11,7 +11,7 @@
 
 <!-- GLOWING STATUS BADGES -->
 <img src="https://img.shields.io/badge/🐍_AI%2FML_DEVELOPER-ACTIVE-3776AB?style=for-the-badge&labelColor=21262d&logo=python&logoColor=white&font=Orbitron" alt="AI/ML Developer Status" />
-<img src="https://img.shields.io/badge/🔥_KAGGLE_FOCUS-ENGAGED-EE4C2C?style=for-the-badge&labelColor=21262d&logo=kaggle&logoColor=white&font=Orbitron" alt="Kaggle Status" />
+             <img src="https://img.shields.io/badge/🔥_KAGGLE_FOCUS-ENGAGED-EE4C2C?style=for-the-badge&labelColor=21262d&logo=kaggle&logoColor=white&font=Orbitron" alt="Kaggle Status" />
 </div>
 
 ---
