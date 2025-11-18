@@ -10,8 +10,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=4000&pause=1000&color=10B981&center=true&vCenter=true&width=600&height=80&lines=%3E+DARSHAN+GANORKAR;%3E+AI+ARCHITECT;%3E+LLM+ENGINEER;%3E+NEURAL+INNOVATOR" alt="Cyberpunk Typing Animation" />
 
 <!-- GLOWING STATUS BADGES -->
-<img src="https://img.shields.io/badge/🏆_COMPETITION_MODE-ON-10B981?style=for-the-badge&labelColor=21262d&logo=kaggle&logoColor=white&font=Orbitron" alt="Competition Mode Status" />
-<img src="https://img.shields.io/badge/💻_ALGORITHMS-RECURRING-007ACC?style=for-the-badge&labelColor=21262d&logo=codeforces&logoColor=white&font=Orbitron" alt="Algorithms Status" />
+<img src="https://img.shields.io/badge/🏆_COMPETITION_MODE-ON-10B981?style=for-the-badge&labelColor=0d1117&logo=kaggle&logoColor=white" alt="Competition Mode Status" />
+<img src="https://img.shields.io/badge/🧠_ALGORITHMS-RECURRING-007ACC?style=for-the-badge&labelColor=0d1117&logo=codeforces&logoColor=white" alt="Algorithms Status" />
 </div>
 
 ---
