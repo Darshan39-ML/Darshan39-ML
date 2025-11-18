@@ -10,9 +10,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=4000&pause=1000&color=10B981&center=true&vCenter=true&width=600&height=80&lines=%3E+DARSHAN+GANORKAR;%3E+AI+ARCHITECT;%3E+LLM+ENGINEER;%3E+NEURAL+INNOVATOR" alt="Cyberpunk Typing Animation" />
 
 <!-- GLOWING STATUS BADGES -->
-<img src="https://img.shields.io/badge/🐍_AI%2FML_DEVELOPER-ACTIVE-3776AB?style=for-the-badge&labelColor=21262d&logo=python&logoColor=white&font=Orbitron" alt="AI/ML Developer Status" />
-<img src="https://img.shields.io/badge/🔥_KAGGLE_FOCUS-ENGAGED-EE4C2C?style=for-the-badge&labelColor=21262d&logo=kaggle&logoColor=white&font=Orbitron" alt="Kaggle Status" />
-
+<img src="https://img.shields.io/badge/🤖_LLM_PIPELINE-BUILDING-7C3AED?style=for-the-badge&labelColor=21262d&logo=openai&logoColor=white&font=Orbitron" alt="LLM Pipeline Status" />
+<img src="https://img.shields.io/badge/🧠_RAG_ARCHITECTURES-EXPLORING-28A745?style=for-the-badge&labelColor=21262d&logo=github&logoColor=white&font=Orbitron" alt="RAG Architecture Status" />
 </div>
 
 ---
